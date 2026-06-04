@@ -10,6 +10,10 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+My domain is how to play / climb the ranks of Team Fight Tactics (TFT). 
+TFT doesn't really place you in a tutorial, instead they have a dedication YouTube video on how to play.
+This knowledge is hard to find since TFT could only introduce the basics on how TFT functions but not
+how to scale to the end game and secure a place within the top 4 or even better, win 1st place.
 
 ---
 
@@ -20,16 +24,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Mobalytics TFT Beginner Guide | Good broad beginner guide for learning your first TFT match and major game concepts. | https://mobalytics.gg/blog/tft/tft-guide/ |
+| 2 | Mobalytics Economy Guide | Covers economy styles like aggressive economy, streaking, and when to spend gold. | https://mobalytics.gg/tft/guides/how-to-manage-your-economy-in-teamfight-tactics-three-strategies |
+| 3 | Mobalytics Standard Leveling Strategy | Good for explaining when beginners should level, roll, or save gold. | https://mobalytics.gg/tft/guides/standard-leveling-strategy |
+| 4 | Mobalytics TFT Positioning Guide | Covers unit placement, frontline/backline logic, and positioning fundamentals. | https://mobalytics.gg/blog/tft/tft-positioning-guide-how-to-get-the-most-from-your-units/ |
+| 5 | Reddit: TFT Fundamentals — Econ and Leveling Guide | Community-written guide focused on economy and leveling from a player perspective. | https://www.reddit.com/r/TeamfightTactics/comments/1gmpr4y/tft_fundamentals_econ_and_leveling_guide_road_to/ |
+| 6 | Reddit: Item Economy Fundamentals | Strong source for item decision-making, flexible item use, and avoiding wasted components. | https://www.reddit.com/r/CompetitiveTFT/comments/1hwxtsq/item_economy_fundamentals/ |
+| 7 | Reddit: Beginner — How to Learn Positioning? | Good discussion thread for practical beginner questions about positioning. | https://www.reddit.com/r/CompetitiveTFT/comments/14qa1r8/beginner_how_to_learn_positioning/ |
+| 8 | MetaTFT Comps | Meta/stat page for team comps, leveling guides, items, augments, and end-game options. | https://www.metatft.com/comps |
+| 9 | TFTAcademy Comps Tier List | Curated comp tier list and guide hub from high-level TFT creators. | https://tftacademy.com/tierlist/comps |
+| 10 | BunnyMuffins TFT Leveling Guide | Useful outside perspective on when to level and roll, especially for ranked tempo decisions. | https://bunnymuffins.lol/tft-leveling-guide/ |
 
 ---
 
@@ -41,11 +45,15 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+We will need large chunks since information about the basics of TFT typically span over a couple sentences (2-3 sentences)
+Lets start with a chunk size of 500
+We'll scale up or down depending on our results.
 
 **Overlap:**
+We should do an overlap of 100 to get that extra sentence if needed.
 
 **Reasoning:**
-
+TFT basics contains lots of information that could span over a couple sentences to get a point across.
 ---
 
 ## Retrieval Approach
@@ -57,10 +65,14 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+We will start with the suggested Tech Stack Embedding Model 
+sentence-transformers (all-MiniLM-L6-V2)
 
 **Top-k:**
+We are most likely going to receive 200-250 chunks per query to go over most of the information the guides provide.
 
 **Production tradeoff reflection:**
+The trade offs would definitely be costs since we would probably need a large context length to go over many of the guides provided by the sources.
 
 ---
 
@@ -73,11 +85,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | How much interest will I get if I have 50 gold saved? | You will recieve 5 gold from interest. |
+| 2 | Is it better to have my carries placed in the front of the board or back of the board? | It depends, but ranged carries perform better at the bottom of the board. |
+| 3 | If I am playing for a 3 cost reroll composition, what level should I be rolling my gold? | Level 7 is the best level to roll your gold since you have the most odds of finding 3-costs. |
+| 4 | If I am playing for a fast 9 composition, how much gold should I be saving? | You should be saving 50 gold and using the remaining (while staying above 50 gold) to level to 9. |
+| 5 | What item is flexible to put on any unit? | Twisted gloves as they guarantee two random items each round. |
 
 ---
 
@@ -87,9 +99,10 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. I feel like the information from other guides could contradict each other since people are entitled to their own opinion on how to
+progress in the game
 
-2.
+2. Some chunks can return false information since some questions can be very vague.
 
 ---
 
@@ -107,9 +120,16 @@
 
 <!-- For each part of the pipeline below, describe:
      - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
+     Claude
+
      - What you'll give it as input (which sections of this planning.md, which requirements)
+     I plan to give it my architecture and my chunking strategy
+
      - What you expect it to produce
+     I expect it to produce my chunking strategy and UI
+
      - How you'll verify the output matches your spec
+     I'll verify the output with my expected answers
 
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()

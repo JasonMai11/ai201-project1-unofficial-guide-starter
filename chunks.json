@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "01_mobalytics_beginner_chunk_0",
+    "source": "01_mobalytics_beginner",
+    "text": "TFT Guide How To Play Teamfight Tactics - Beginner Guide Set 17 Guides By Oli Updated on Apr 21, 2026 Apr 21, 2026 Share Welcome to our absolute beginner guide for TFT or Teamfight Tactics ! TFT is an “autochess” game that recently celebrated its 7th birthday! As time has passed, more mechanics have been added to the game, making it difficult for new players to pick up. Learning a new game, let"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_1",
+    "source": "01_mobalytics_beginner",
+    "text": "ave been added to the game, making it difficult for new players to pick up. Learning a new game, let alone a new genre can be overwhelming at times since there is a lot to learn and soak in, but that’s part of the fun! In this absolute beginner’s guide, we’ll teach you the basics so you have a good idea of what’s going on in your very first game. We’ll assume you have a basic idea of what TFT is"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_2",
+    "source": "01_mobalytics_beginner",
+    "text": "d idea of what’s going on in your very first game. We’ll assume you have a basic idea of what TFT is and you’re looking to play your first match. If you’ve already played a few and want to learn more we’ll guarantee you’ll learn something new as well. Let’s learn how to play Teamfight Tactics! How do you win in Teamfight Tactics? The ultimate goal of TFT is to be the last player standing in an"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_3",
+    "source": "01_mobalytics_beginner",
+    "text": "ow do you win in Teamfight Tactics? The ultimate goal of TFT is to be the last player standing in an 8-player free for all match. You spend the game accumulating resources like gold and items and making decisions to build a team of units with different strengths, weaknesses, and abilities. If you compose your team with units that synergize, they will be empowered with buffed properties. Your team"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_4",
+    "source": "01_mobalytics_beginner",
+    "text": "ompose your team with units that synergize, they will be empowered with buffed properties. Your team of units will fight against the teams of the other players at random during the rounds. The player whose team loses will take damage. When a player runs out of life, they are out. This may seem hard but getting top 4 counts as a win, so aim for that. The Start – Space Gods Previously, TFT games"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_5",
+    "source": "01_mobalytics_beginner",
+    "text": "ard but getting top 4 counts as a win, so aim for that. The Start – Space Gods Previously, TFT games would start with a carousel round where you would run to try and grab a starting item and champion. Then from Set 9, the opening Carousel had been changed to Portals, which was a voting system that determined starting bonuses. As of Set 13 onwards, Encounters have replaced Portals. Instead of"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_6",
+    "source": "01_mobalytics_beginner",
+    "text": "that determined starting bonuses. As of Set 13 onwards, Encounters have replaced Portals. Instead of placing a vote, players are now met with a random Encounter, streamlining the overall experience. TFT Set 17 Encounter Start Going into Set 17 we now have Space Gods. There are 9 gods in total, each offering different loot depending on which one you choose, and eventually granting a powerful God"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_7",
+    "source": "01_mobalytics_beginner",
+    "text": "ch offering different loot depending on which one you choose, and eventually granting a powerful God Boon Blessing. These gods replace the traditional carousel rounds, and in each game you’ll only be offered 2 unique gods to choose from for the entirety of your game. Deciding which Blessing to aim for will depend heavily on your first three selections. Building your First Units: The Three Minion"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_8",
+    "source": "01_mobalytics_beginner",
+    "text": "for will depend heavily on your first three selections. Building your First Units: The Three Minion Rounds Round 1: Placing your unit Once the game begins, you will be given a random 1-cost Champion, and you’ll ready for your first battle! Don’t worry too much, the first three rounds are against bot-controlled minions that are very easy to slay. Simply click and drag the unit onto the board in"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_9",
+    "source": "01_mobalytics_beginner",
+    "text": "bot-controlled minions that are very easy to slay. Simply click and drag the unit onto the board in whatever slot you want them in. To learn more about your unit you can right-click on them during a battle or while they’re on your bench (you can also right-click on the units of your enemies.) Here you can see your unit’s synergies, health/mana, cost, rank, ability information (by hovering), and"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_10",
+    "source": "01_mobalytics_beginner",
+    "text": "e you can see your unit’s synergies, health/mana, cost, rank, ability information (by hovering), and items (which you can also hover). Keep these in mind, for now, we’ll discuss them later. Right-click on any champion unit for more information about them. To understand what is happening in each round, take a look at the top of your screen. You can see the first carousel round icon, two minion"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_11",
+    "source": "01_mobalytics_beginner",
+    "text": "round, take a look at the top of your screen. You can see the first carousel round icon, two minion fight icons, and a cube icon. These events will occur from left to right. Before you fight, you have a set amount of time to prepare (as represented by the countdown). Right now you’ll only be able to change the position of your unit but you’ll have more options in a bit – for now, just drag your"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_12",
+    "source": "01_mobalytics_beginner",
+    "text": "to change the position of your unit but you’ll have more options in a bit – for now, just drag your first unit from your bench and onto the board. (If you don’t do this, it will automatically be done for you) Once the countdown finishes, combat will begin and your unit will come alive to fight the minions. Since the minions are weak, your single unit should be able to kill them easily. Mana and"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_13",
+    "source": "01_mobalytics_beginner",
+    "text": "e minions. Since the minions are weak, your single unit should be able to kill them easily. Mana and Abilities While your unit fights, you may notice that their blue mana bar begins to fill up. Your champion will gain mana when they auto attack or take damage. Once their mana bar is full, they will cast their ability. Note that not every champion has an active ability. Some champions may only"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_14",
+    "source": "01_mobalytics_beginner",
+    "text": "will cast their ability. Note that not every champion has an active ability. Some champions may only have a passive or an ability that triggers after specific conditions. Item Drops When you fight neutral (PvE) minions and monsters, you have a chance to get loot drops. These drops will give you things such as gold, items, or champions. Item components and other items will accumulate on the left"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_15",
+    "source": "01_mobalytics_beginner",
+    "text": "hings such as gold, items, or champions. Item components and other items will accumulate on the left side of your board. Outside of the carousel rounds, this is the only other time you can get items. Since minion rounds are easy, we don’t need to rush to combine item. Instead, keep it on the bench to keep our options open. Augments Augments were introduced to the game in Set 6, and have stuck"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_16",
+    "source": "01_mobalytics_beginner",
+    "text": "nch to keep our options open. Augments Augments were introduced to the game in Set 6, and have stuck around to today. These grant you bonus effects, whether they may be Gold related or Combat related. Augments will be offered 3 times throughout the game, at these Rounds: 2-1 3-2 4-2 You can look at each one and select which Augment you want. You’re also given one reroll per slot, meaning you can"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_17",
+    "source": "01_mobalytics_beginner",
+    "text": "t each one and select which Augment you want. You’re also given one reroll per slot, meaning you can have up to 6 total Augments to choose from. But when you reroll, you won’t be able to get your old selection back, so be careful. Rounds 2 and 3: The Shop After your first minion round, the game starts to really open up in terms of making decisions and constructing your team composition. Let’s"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_18",
+    "source": "01_mobalytics_beginner",
+    "text": "starts to really open up in terms of making decisions and constructing your team composition. Let’s take a look at the image below and break it down. At the beginning of round 2 and every round after until the game ends, you’ll be given five choices of champion units from the shop. All eight players in the match draw from a shared pool of finite pieces. For each unit, you can see their cost,"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_19",
+    "source": "01_mobalytics_beginner",
+    "text": "layers in the match draw from a shared pool of finite pieces. For each unit, you can see their cost, synergies, and a description of their ability if you hover them. Above the five units you can see the amount of gold you have. Outside of buying units at the shop, you can also use gold to refresh, or “reroll” to another set of five champions for 2g or buy 4 experience points for 4g. You can also"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_20",
+    "source": "01_mobalytics_beginner",
+    "text": "or “reroll” to another set of five champions for 2g or buy 4 experience points for 4g. You can also sell the units on your board or bench. (1 star champions can be returned for their full value but 2 star champions that are 2g to 5g will be refunded for one less gold than their combined amount). You can also choose to lock your shop (top right corner of the shop) so it doesn’t refresh at the"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_21",
+    "source": "01_mobalytics_beginner",
+    "text": "). You can also choose to lock your shop (top right corner of the shop) so it doesn’t refresh at the beginning of the next round. Some quick notes on these options: Reroll: If you choose to reroll, your shop will refresh with 5 new units. Buy XP: Your player level determines how many pieces you have on the board (if you’re level 3, you can have 3 unit pieces). You will passively gain 2 experience"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_22",
+    "source": "01_mobalytics_beginner",
+    "text": "e on the board (if you’re level 3, you can have 3 unit pieces). You will passively gain 2 experience each round, but you can spend gold if you’re looking to increase your level and max number of units (up to 9 using experience). You can see how many points to hit your next level and your current level at the left of the shop. Lock: If you like the options given by a roll but don’t have enough"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_23",
+    "source": "01_mobalytics_beginner",
+    "text": "t level at the left of the shop. Lock: If you like the options given by a roll but don’t have enough gold to buy everything you need, consider locking your shop so you can buy when you get more gold for your next round. Sell: You can sell your units by dragging them onto the shop or by hovering them and pressing E. With so many options, it can be hard to understand when and why to buy champions."
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_24",
+    "source": "01_mobalytics_beginner",
+    "text": "em and pressing E. With so many options, it can be hard to understand when and why to buy champions. When you first start playing, you should be focused on trying to build toward your unit synergies. Building Unit Synergies Building a team around traits is a core gameplay aspect of auto chess games like Teamfight Tactics. There are two types of traits, class and origin, and every champion has at"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_25",
+    "source": "01_mobalytics_beginner",
+    "text": "s like Teamfight Tactics. There are two types of traits, class and origin, and every champion has at least one of each (some have more). You should be looking to try and pairs units together to activate these trait bonuses. The left side of your board will showcase what traits are active, and what breakpoints you need to hit to activate these bonuses. As usual, hovering these traits will show"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_26",
+    "source": "01_mobalytics_beginner",
+    "text": "hat breakpoints you need to hit to activate these bonuses. As usual, hovering these traits will show what they do and what tiers there are. You will see what traits a unit will have in the shop as well. If you remove them from the board, the traits will disappear from the left side of the screen. There are a ton of really cool synergies in TFT to learn more about them and their unique abilities,"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_27",
+    "source": "01_mobalytics_beginner",
+    "text": "There are a ton of really cool synergies in TFT to learn more about them and their unique abilities, be sure to check out our wiki’s on origins and classes . The way you learn about team comps depends on who you are as a player. If you’re someone who likes to learn on your own, feel free to experiment and learn through trial and error about which classes and origins work together well. If you’re"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_28",
+    "source": "01_mobalytics_beginner",
+    "text": "ment and learn through trial and error about which classes and origins work together well. If you’re someone who wants to win now or immediately learn what’s good, check out our team comp recommendation guides to see team comp builds refined and tested by high-level players. Starring Up Units Another core mechanic to keep in mind is that in TFT, you can combine identical units in order to make"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_29",
+    "source": "01_mobalytics_beginner",
+    "text": "other core mechanic to keep in mind is that in TFT, you can combine identical units in order to make stronger ones – this is called starring up (also called leveling/ranking up). You can rank up your units by combining three copies for each tier: Three 1 star units = One 2 star unit Three 2 star units = One 3 star unit This means that you need a total of nine 1 star units to get a 3 star unit."
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_30",
+    "source": "01_mobalytics_beginner",
+    "text": "units = One 3 star unit This means that you need a total of nine 1 star units to get a 3 star unit. Units you buy from the shop are 1 star In the image below we have two copies of the same unit, one on-board, one on the bench. The shop then presents the third copy, who will be highlighted to clearly show that purchasing will combine all three into a 2-star. When this transformation occurs, the"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_31",
+    "source": "01_mobalytics_beginner",
+    "text": "arly show that purchasing will combine all three into a 2-star. When this transformation occurs, the champion grows in size and in power. The rank up will also alert everyone in the game in the chat log, so know that it’ll draw attention and keep an eye on the activity of other players. When a Champion stars up, their Ability will get stronger, and their Health, AD (Attack Damage), and AP"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_32",
+    "source": "01_mobalytics_beginner",
+    "text": "n a Champion stars up, their Ability will get stronger, and their Health, AD (Attack Damage), and AP (Ability Power) will increase. Notably, the Armor, MR, Attack Speed, and Crit stats of champions do not increase when starring up. Shop Odds As you level up, the pool of champions available to you and their probability of appearing changes. Right above the shop to the left of your gold is an"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_33",
+    "source": "01_mobalytics_beginner",
+    "text": "you and their probability of appearing changes. Right above the shop to the left of your gold is an indicator showing the odds of finding an x-cost unit. From the image above, we see that currently at level 4, there is a 55% chance of 1-cost, 30% chance of 2-cost, and 15% chance of 3-cost. As you level up, the odds will shift to the right, letting you find more powerful champions. Now that we"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_34",
+    "source": "01_mobalytics_beginner",
+    "text": "ou level up, the odds will shift to the right, letting you find more powerful champions. Now that we know the basics of team building and which units to target, let’s get back to the game walkthrough. TFT Set 17 Mechanic: Space Gods Space Gods is the new set mechanic in Set 17. There are 9 gods in total, each offering different loot depending on which one you choose, and eventually granting a"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_35",
+    "source": "01_mobalytics_beginner",
+    "text": "in total, each offering different loot depending on which one you choose, and eventually granting a powerful God Boon Blessing. For a deeper dive into how Unlockables work, check out our TFT Set 17 Space God Guide . Round 2-1 and Onwards: PvP Until Last Player Standing After the three minion rounds end, Round 2-1 will begin and you’ll start to have player vs player fights. The image of cards"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_36",
+    "source": "01_mobalytics_beginner",
+    "text": "ounds end, Round 2-1 will begin and you’ll start to have player vs player fights. The image of cards displays an Augment selection, and you will still fight a player in this round. The 4th round will be a carousel, where players pick a free champion + item. Finally the Stage ends with a neutral round, where you fight more minions/monsters for loot drops. This pattern will repeat until the end of"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_37",
+    "source": "01_mobalytics_beginner",
+    "text": "und, where you fight more minions/monsters for loot drops. This pattern will repeat until the end of the match when one player is standing (top 4 counts as a win). In the following sections, we’ll be discussing the overall concepts of a match instead of walking you through round by round. PvP Rounds During the PvP rounds, you’ll face a random opponent and pit your team of champions against"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_38",
+    "source": "01_mobalytics_beginner",
+    "text": "P Rounds During the PvP rounds, you’ll face a random opponent and pit your team of champions against theirs. Depending on how badly the winning side wins, the losing side will take damage. There’s a specific formula for this but since this is a beginner’s guide, to simplify it, just think about it in terms of units that survive on the winning side. If you have a really close battle that ends in a"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_39",
+    "source": "01_mobalytics_beginner",
+    "text": "in terms of units that survive on the winning side. If you have a really close battle that ends in a 1v1 between two final units, the losing side will take a small amount of damage. If the winning side wins by a landslide and has many surviving units, the loser will take a large amount of damage. In the image above, you can see the standings based on how much health players have. By clicking on"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_40",
+    "source": "01_mobalytics_beginner",
+    "text": "In the image above, you can see the standings based on how much health players have. By clicking on their icon, you can also take a look at their board and bench. You can also do this by clicking on the minimap at the bottom right, or by using the 1, 2, and 3 keys to rotate between player boards or return to your own (1 and 3 cycle, 2 returns you back home). Space God As we mentioned earlier,"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_41",
+    "source": "01_mobalytics_beginner",
+    "text": "s or return to your own (1 and 3 cycle, 2 returns you back home). Space God As we mentioned earlier, the 4th round of each Stage will include a Space God round. With the 2 unique Gods replacing Carousel rounds, each one will offer a different reward to choose from. Each god has multiple options for each stage but only one will be offered to you from each god. The Basics of Econ: Win Streaks, Lose"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_42",
+    "source": "01_mobalytics_beginner",
+    "text": "each stage but only one will be offered to you from each god. The Basics of Econ: Win Streaks, Lose Streaks, and Interest In Teamfight Tactics, you’ll get passive income for free each round. The first few rounds, you’ll gain increasing gold every round starting from 2 gold up until a base of 5 gold per round. You get 2g round 2, 3g round 3, 4g round 4, and 5g round 5 and every round after. You"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_43",
+    "source": "01_mobalytics_beginner",
+    "text": "old per round. You get 2g round 2, 3g round 3, 4g round 4, and 5g round 5 and every round after. You also get additional gold based on win/loss streaks and interest. If you are winning or losing consecutively, you will gain extra gold – here’s how it works: 2-4 round streak = 1 extra gold per round 5 round streak = 2 extra gold per round 6+ round streak = 3 extra gold per round This rewards"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_44",
+    "source": "01_mobalytics_beginner",
+    "text": "round 5 round streak = 2 extra gold per round 6+ round streak = 3 extra gold per round This rewards players who have been doing well and throws some love to players who are having a rough time (there’s actually an advanced playstyle where you lose on purpose to get lose streak income and a good place in line for carousels, but that’s not for this article). You also get +1 gold if you win a PvP"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_45",
+    "source": "01_mobalytics_beginner",
+    "text": "place in line for carousels, but that’s not for this article). You also get +1 gold if you win a PvP round. Depending on how much gold you have at the end of a round, you also get an interest bonus at the beginning of your next round. The amount of interest you get is related to every 10 gold you have up until 50: 10g = +1g interest 20g = +2g interest 30g = +3g interest 40g = +4g interest 50g ="
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_46",
+    "source": "01_mobalytics_beginner",
+    "text": "have up until 50: 10g = +1g interest 20g = +2g interest 30g = +3g interest 40g = +4g interest 50g = +5g interest (the max) Example: If you end the round with 34g, you will have an additional +3g from interest next round. You can check how much gold you’re earning per round at any time by hovering your gold in shop. To learn more, we strongly recommend checking out our TFT economy guide. We’ll"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_47",
+    "source": "01_mobalytics_beginner",
+    "text": "ng your gold in shop. To learn more, we strongly recommend checking out our TFT economy guide. We’ll cover these topics in more depth and give fundamental strategies regarding gold and econ management. Positioning Basics Managing your economy, buying units, and assembling your team are incredibly important but can all go to waste if you don’t position your units properly. Making sure that your"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_48",
+    "source": "01_mobalytics_beginner",
+    "text": "y important but can all go to waste if you don’t position your units properly. Making sure that your units are in the most optimal places possible will help you get the most value out of them and increase the consistency of their success in battle. You can always reference the champion’s hex range and recommended positioning by inspecting them. Here are general guidelines: Since mana is generated"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_49",
+    "source": "01_mobalytics_beginner",
+    "text": "and recommended positioning by inspecting them. Here are general guidelines: Since mana is generated from fighting and taking damage, you want your pieces in a position where they are actively dealing damage and taking damage to cast their abilities (without dying of course). Try to have your units cast their ability at least once. If they’re dying before that, something is likely wrong. Most"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_50",
+    "source": "01_mobalytics_beginner",
+    "text": "nits cast their ability at least once. If they’re dying before that, something is likely wrong. Most team compositions are similar to League, you’ll have a beefy frontline that protects your squishy backline of damage dealers and utility units. As the game goes on and you have a better idea of who you’ll be facing (since there are less players in the game), you’ll want to adjust your positioning"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_51",
+    "source": "01_mobalytics_beginner",
+    "text": "you’ll be facing (since there are less players in the game), you’ll want to adjust your positioning accordingly. To save time, you can swap units by dragging one unit onto another. They will automatically switch places whether they’re on the board or the bench. To help these make more sense, we’ll cover the main fundamentals of positioning. Frontline and Backline At the very basic level, you"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_52",
+    "source": "01_mobalytics_beginner",
+    "text": "e’ll cover the main fundamentals of positioning. Frontline and Backline At the very basic level, you should position your units with a simple idea of frontline and backline. Frontline Units: Frontline units usually have a defensive trait like Bruiser or Defender that lets them absorb damage from enemy teams. These units will usually be melee units as well, so placing them in the front ensures"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_53",
+    "source": "01_mobalytics_beginner",
+    "text": "m enemy teams. These units will usually be melee units as well, so placing them in the front ensures that they won’t need to spend time walking up to hit enemies. Backline Units: Backline units are simply the opposite. Backline units usually either provide damage or utility abilities like healing and shields. These units usually have range that allows them to hit enemy frontline units without"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_54",
+    "source": "01_mobalytics_beginner",
+    "text": "ng and shields. These units usually have range that allows them to hit enemy frontline units without needing to move as much. Without getting too specific, almost all comps follow this general idea. You can do other things like place more toward the right or left side, or even in the middle of the board. Some synergies also make it so you want to place your units close together or further apart."
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_55",
+    "source": "01_mobalytics_beginner",
+    "text": "board. Some synergies also make it so you want to place your units close together or further apart. To learn more about how to place your units and the fundamental concepts for doing so, check out our TFT positioning guide . How to Combine Items and Who to Give Them To Throughout the article, we’ve mentioned that you could get items from the carousel or monster rounds but we haven’t really"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_56",
+    "source": "01_mobalytics_beginner",
+    "text": ", we’ve mentioned that you could get items from the carousel or monster rounds but we haven’t really covered what they’re for and how to use them. In this section, we’ll finally discuss how to best use them and why you should prioritize certain items over others – here are the main things you need to know: Every unit can hold a maximum of three items. Granting a unit an item is permanent. In"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_57",
+    "source": "01_mobalytics_beginner",
+    "text": "need to know: Every unit can hold a maximum of three items. Granting a unit an item is permanent. In order to move an item to another unit, you’ll have to sell the unit currently holding the item or use a one time use item remover. There are two types of items, basic components and combined. Giving a unit two basic components will create a combined item. In general, you’ll want to use items to"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_58",
+    "source": "01_mobalytics_beginner",
+    "text": "ing a unit two basic components will create a combined item. In general, you’ll want to use items to augment the strengths of your team comp. Items do everything from granting basic stats like health and attack speed to breaking the game by letting you exceed the max number of units. Having the right items on the right units will strongly increase your chances of winning, especially against teams"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_59",
+    "source": "01_mobalytics_beginner",
+    "text": "ht items on the right units will strongly increase your chances of winning, especially against teams that don’t use their items as well. Example #1: Guinsoo’s Rageblade (empowering auto-attackers) Guinsoo’s Rageblade grants its wearer 6% additional attack speed every time they attack, and it stacks infinitely. This means that they’ll attack faster and faster the longer a battle goes. This is good"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_60",
+    "source": "01_mobalytics_beginner",
+    "text": "infinitely. This means that they’ll attack faster and faster the longer a battle goes. This is good for units that deal solid damage with their auto attacks. It can also be a strong item for AD units with strong abilities as faster attacks leads to faster mana generation. Example#2: Spear of Shojin (cast abilities more often) If it wasn’t apparent by now, abilities are game-changers in TFT. As"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_61",
+    "source": "01_mobalytics_beginner",
+    "text": "jin (cast abilities more often) If it wasn’t apparent by now, abilities are game-changers in TFT. As we mentioned in the positioning section, getting one ultimate off is usually seen as a success. Spear of Shojin allows its wielder to cast their ability more often because they gain 5 mana per attack. This is insane on champions that have really powerful ultimates. Late in the game, you will often"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_62",
+    "source": "01_mobalytics_beginner",
+    "text": "k. This is insane on champions that have really powerful ultimates. Late in the game, you will often have a powerful backline champion cast multiple times throughout the fight with Spear of Shojin or other mana generating items. Item Tier List and Recommendations for Every Champion Items are one of the trickiest aspects of TFT to get the hang of. Since you’re just starting out, it’s a good idea"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_63",
+    "source": "01_mobalytics_beginner",
+    "text": "of the trickiest aspects of TFT to get the hang of. Since you’re just starting out, it’s a good idea to try them all out to see how they feel and work. To make the process easier, however, we strongly recommend checking out our TFT items tool . We not only give you all the recipes for combined items, but we also tell you which champions each item is best for and rank them according to their tier."
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_64",
+    "source": "01_mobalytics_beginner",
+    "text": "s, but we also tell you which champions each item is best for and rank them according to their tier. By following our recommendations there, we guarantee you’ll learn at a faster rate and see your success increase in your matches. Frequently Asked Questions by Beginners Lastly, we want to try to answer some questions we see often from beginners. As a disclaimer, know that Teamfight Tactics is a"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_65",
+    "source": "01_mobalytics_beginner",
+    "text": "answer some questions we see often from beginners. As a disclaimer, know that Teamfight Tactics is a very situational game so we will do our best to give the most accurate answers possible, but things may be different for you based on the context and skill level of players in your matches. If we didn’t cover your question in this Teamfight Tactics guide, let us know in the comments! Should I"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_66",
+    "source": "01_mobalytics_beginner",
+    "text": "we didn’t cover your question in this Teamfight Tactics guide, let us know in the comments! Should I spend gold early and try to see which units I can get the most of or should I save? Definitely check out the guide we linked in the economy section above. We cover three main strategies that will help you with the decision making process related to spending to find upgrades or saving up. In"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_67",
+    "source": "01_mobalytics_beginner",
+    "text": "will help you with the decision making process related to spending to find upgrades or saving up. In general, if you’re looking to maintain a win streak, it may be more worth it to look for upgrades to continue to snowball. Keep in mind, however, how realistic your odds are. If you aren’t winning early on, it’s probably more beneficial to save up, as long as you aren’t getting completely"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_68",
+    "source": "01_mobalytics_beginner",
+    "text": "winning early on, it’s probably more beneficial to save up, as long as you aren’t getting completely destroyed and losing tons of HP. If you’re able to get a lose streak while staying healthy, you’ll be in a position to not only max interest but also be in a good spot at carousel rounds. Which champions are strong when? This is leaning towards a more advanced concept called “power spikes”, which"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_69",
+    "source": "01_mobalytics_beginner",
+    "text": "mpions are strong when? This is leaning towards a more advanced concept called “power spikes”, which if you’re a League player, you may be familiar with. In a nutshell, it means that most pieces have a point in time where they are designed to be strongest, and times where they’re expected to not be good or fall off. In general, attack speed is better early game, and raw burst is better later"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_70",
+    "source": "01_mobalytics_beginner",
+    "text": "ot be good or fall off. In general, attack speed is better early game, and raw burst is better later game. Single target abilities are better early game, AoE abilities are better late game. Should I give my tanks items or my back line? It’s good to have a mix of both tank items and damage items. Most team comps will have a strongest damage carry and tank unit. By having 3 items on each, you’re"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_71",
+    "source": "01_mobalytics_beginner",
+    "text": "Most team comps will have a strongest damage carry and tank unit. By having 3 items on each, you’re maximizing your item potential. As you get more champions and items, you can continue spreading them based on what you need. Where do I position my units? Why do some people have all their units on the left side, others on the right, and others in the middle? Positioning your own units depends on"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_72",
+    "source": "01_mobalytics_beginner",
+    "text": "the left side, others on the right, and others in the middle? Positioning your own units depends on your team comp and the units you have, be sure to follow the guidelines we gave in the positioning section above. In regards to other players, they are in different places because they are trying to find the ideal placements for their team against the rest of the competition. Sometimes little"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_73",
+    "source": "01_mobalytics_beginner",
+    "text": "ng to find the ideal placements for their team against the rest of the competition. Sometimes little tweaks here and there make a difference, and as the games wind down and the number of players decreases, positioning becomes even more important. Should I hold onto my items or use them ASAP? In a nutshell, you want to try to get the ideal items on your ideal champions. If it’s the early to mid"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_74",
+    "source": "01_mobalytics_beginner",
+    "text": "a nutshell, you want to try to get the ideal items on your ideal champions. If it’s the early to mid game and you still have time to find these, it may be better to hold on and wait instead of combining for weaker items. However, you still want to build some items so you aren’t weak compared to everyone else. There are a lot of items that are strong in a variety of team comps, making them safe to"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_75",
+    "source": "01_mobalytics_beginner",
+    "text": "ryone else. There are a lot of items that are strong in a variety of team comps, making them safe to build early. Tank items are a great example of this. Remember that item combinations are permanent and there’s no way to get an item back without selling the unit holding it or using an item remover. Another good tip is to use a 1 cost unit to create a combined item on and then sell it, that way"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_76",
+    "source": "01_mobalytics_beginner",
+    "text": "er. Another good tip is to use a 1 cost unit to create a combined item on and then sell it, that way you don’t have to worry about accidentally combining with a basic item that your carry was holding onto. To learn about the latest new TFT Set, head to our all-in-one Teamfight Tactics Set 17 reveal page that covers all champions, synergies, and more! 1 . Overview 2 . Guide How do you win in"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_77",
+    "source": "01_mobalytics_beginner",
+    "text": "reveal page that covers all champions, synergies, and more! 1 . Overview 2 . Guide How do you win in Teamfight Tactics? The Start – Space Gods Building your First Units: The Three Minion Rounds Building Unit Synergies Starring Up Units Round 2-1 and Onwards: PvP Until Last Player Standing PvP Rounds Space God The Basics of Econ: Win Streaks, Lose Streaks, and Interest Positioning Basics How to"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_78",
+    "source": "01_mobalytics_beginner",
+    "text": "unds Space God The Basics of Econ: Win Streaks, Lose Streaks, and Interest Positioning Basics How to Combine Items and Who to Give Them To Frequently Asked Questions by Beginners Back to top Teamfight Tactics Meta: Best Comps and Builds for TFT Set 17 (Patch 17.4b)"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_0",
+    "source": "02_mobalytics_economy",
+    "text": "TFT Guide How to Manage your Economy in TFT - Set 17 Set 17 Guides By Oli Updated on Apr 21, 2026 Apr 21, 2026 Share In this guide, we’ll break down how to manage your economy in TFT using three fundamental strategies: aggressive, greedy, and balanced. Understanding when to push your gold for tempo, when to save for maximum value, and how to adapt between the two will help you stay ahead of the"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_1",
+    "source": "02_mobalytics_economy",
+    "text": "po, when to save for maximum value, and how to adapt between the two will help you stay ahead of the lobby and consistently reach stronger late-game boards. A Beginner’s Guide to Econ in TFT One of the core fundamentals of Teamfight Tactics is being able to manage your economy. If you have seen our build guides or any build guides, you will notice that oftentimes, you need very specific units to"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_2",
+    "source": "02_mobalytics_economy",
+    "text": "r build guides or any build guides, you will notice that oftentimes, you need very specific units to make the best team comp you can. Many times, players will often say “The hardest part of this build is finding the units” or “I never have enough gold to find my units and then I die.” While this can be true and you can have unlucky games, the best TFT players are able to consistently build the"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_3",
+    "source": "02_mobalytics_economy",
+    "text": "can be true and you can have unlucky games, the best TFT players are able to consistently build the units they want because they manage their economy efficiently. The single most important aspect of achieving consistent performance in this game is managing your economy and the strategic decisions around it. This article is going to cover the fundamentals and then break down three different"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_4",
+    "source": "02_mobalytics_economy",
+    "text": "sions around it. This article is going to cover the fundamentals and then break down three different approaches for economy management. If you want to learn other fundamentals that are critical for learning TFT, be sure to check out our Absolute Beginner guide as well. The Fundamentals of TFT Economy Let’s start with the basics. If you’re a new player, focus on learning these fundamentals: The"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_5",
+    "source": "02_mobalytics_economy",
+    "text": "onomy Let’s start with the basics. If you’re a new player, focus on learning these fundamentals: The first few rounds, you’ll gain increasing gold every round starting from 2 gold up until a base of 5 gold per round. Starting from round 1-2, you will receive 2-2-3-4 gold, and then 5 gold every round after that. You collect interest for every 10 gold you have up until 50. Interest is calculated at"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_6",
+    "source": "02_mobalytics_economy",
+    "text": "d after that. You collect interest for every 10 gold you have up until 50. Interest is calculated at the very end of the round and ranges from 1-5 gold. So if you have 40 gold when the round ends you’ll get an extra 4 gold. (In the image below, you can sell a unit to put yourself at or above the 50 gold threshold, granting you the maximum 5 gold interest. If you stay at 49 gold, then you would"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_7",
+    "source": "02_mobalytics_economy",
+    "text": "50 gold threshold, granting you the maximum 5 gold interest. If you stay at 49 gold, then you would only get 4 gold in interest) There are win streaks and lose streaks in the game. If you are on either you will gain extra gold. 3-4 win/lose streak: 1 extra gold 5 win/lose streak: 2 extra gold 6+ win/lose streak: 3 extra gold Knowing the above information, there are three basic ways to play each"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_8",
+    "source": "02_mobalytics_economy",
+    "text": "win/lose streak: 3 extra gold Knowing the above information, there are three basic ways to play each game of TFT. Knowing what style to take and how to adjust it is the beauty of the game, and what sets apart the master from the good player. For this article, we won’t go into too much detail but will instead focus more on conceptually giving you the tools you need to be successful. The three main"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_9",
+    "source": "02_mobalytics_economy",
+    "text": "ll instead focus more on conceptually giving you the tools you need to be successful. The three main approaches mirror playstyles you would find in other games of strategy (if you are an RTS veteran, now is your time to shine): Aggressive Economy: This focuses on power spiking early and win-streaking, punishing greedy opponents, and hopefully solidifying an advantage into late game. Greedy"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_10",
+    "source": "02_mobalytics_economy",
+    "text": "streaking, punishing greedy opponents, and hopefully solidifying an advantage into late game. Greedy Economy: This sacrifices the early game to get you more overall gold, access to higher tier units earlier, and more chances to reroll. Balanced Economy: Weaker than both extremes, but with this type of economy, you can win any game if you make good decisions and are favored by fortune. 1."
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_11",
+    "source": "02_mobalytics_economy",
+    "text": "this type of economy, you can win any game if you make good decisions and are favored by fortune. 1. Aggressive Economy The goal of this strategy is to spend as much gold as possible early on to gain an advantage. That means rerolling to find key units to upgrade and leveling early in order to gain win streak gold. Gameplan: Reroll aggressively in the early levels to get the units that you want"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_12",
+    "source": "02_mobalytics_economy",
+    "text": "in win streak gold. Gameplan: Reroll aggressively in the early levels to get the units that you want to rank up. This is usually an S-tier unit (check out our TFT champion tier list) you can build a composition around and have already received a few of. Once you have gotten the units upgraded, you want to level up to put in other units you have starred up so that you can keep your advantage. An"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_13",
+    "source": "02_mobalytics_economy",
+    "text": "u want to level up to put in other units you have starred up so that you can keep your advantage. An example of this is placing two 1-star units that you want to later combine to two-star onto the board. The next thing you have to master is making sure that you know when your unit lead is strong enough to carry you for a while, and then to stop spending and start saving. This is something you can"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_14",
+    "source": "02_mobalytics_economy",
+    "text": "ough to carry you for a while, and then to stop spending and start saving. This is something you can pick up with experience. Examples: It’s the first PvP round (2-1) and you have 3 pairs of units. You win the first round somehow and next round you upgrade 2 units and find a good 4th unit. You then decide to roll a bit to find upgrades and then level up to put in your 4th unit. By leveling to 4"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_15",
+    "source": "02_mobalytics_economy",
+    "text": "en decide to roll a bit to find upgrades and then level up to put in your 4th unit. By leveling to 4 and having upgraded units, you are then able to play to preserver your win streak. Slow rolling teams are a slightly different example. These builds slowly roll their gold above 50 to hit 3 star units as their main carries. In these builds, the power spike comes during stage 3 if you are able to"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_16",
+    "source": "02_mobalytics_economy",
+    "text": "nits as their main carries. In these builds, the power spike comes during stage 3 if you are able to hit 3 star units. After 3-2, you will save up your money once again to either keep rolling or to slowly level to catch up to the rest of the lobby. Strengths: TFT has aspects that can make an aggressive start very potent: Playing aggressively will allow you to build a win streak and regain the"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_17",
+    "source": "02_mobalytics_economy",
+    "text": "gressive start very potent: Playing aggressively will allow you to build a win streak and regain the gold you spent while also maintaining a high health pool. You will punish greedy economy opponents with your strong team early on. If the speed of the meta is very slow, you can gain an advantage and place top 4 by playing aggressively to counter the meta. Due to rolling odds, low-cost units are"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_18",
+    "source": "02_mobalytics_economy",
+    "text": "and place top 4 by playing aggressively to counter the meta. Due to rolling odds, low-cost units are easier to find at lower levels, allowing you to more easily find upgrades if you spend early. (check the table for Set 10 below). Level 1 2 3 4 5 6 7 8 9 10 1-Cost (30) 100% 100% 75% 55% 45% 30% 19% 18% 15% 5% 2-Cost (25) – – 25% 30% 33% 40% 30% 27% 20% 10% 3-Cost (18) – – – 15% 20% 25% 40% 32%"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_19",
+    "source": "02_mobalytics_economy",
+    "text": "19% 18% 15% 5% 2-Cost (25) – – 25% 30% 33% 40% 30% 27% 20% 10% 3-Cost (18) – – – 15% 20% 25% 40% 32% 25% 20% 4-Cost (10) – – – – 2% 5% 10% 20% 30% 40% 5-Cost (9) – – – – – – 1% 3% 10% 25% Weaknesses: With any strategy, there will be weaknesses involved that can punish an aggressive start: If you spend your money early and are unlucky and don’t find upgrades, you may be royally screwed. No money +"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_20",
+    "source": "02_mobalytics_economy",
+    "text": "end your money early and are unlucky and don’t find upgrades, you may be royally screwed. No money + no upgraded units = Top 8. If another player ruins your win streak, you may not gain enough gold to recover in the mid and late game. Your team will likely fall off late game, unless you are able to gain enough gold and naturally find strong late game units. Win streaking early will allow you to"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_21",
+    "source": "02_mobalytics_economy",
+    "text": "to gain enough gold and naturally find strong late game units. Win streaking early will allow you to maintain high HP, but this will also mean you may not get the item components you want from the carousel, leaving yourself at the hands of RNG. When should I be aggressive? Think of this as an all-in play. It’s high risk but can be high reward. If you don’t level up the units you were targeting,"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_22",
+    "source": "02_mobalytics_economy",
+    "text": "-in play. It’s high risk but can be high reward. If you don’t level up the units you were targeting, it can be disastrous. If you get a great roll on an early S- tier unit and want to build around it. (See team comps for slow roll builds) . If you get great item components (refer to our TFT item tier list ) and have a carry champion that you are close to upgrading. If you see a lot of people"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_23",
+    "source": "02_mobalytics_economy",
+    "text": "em tier list ) and have a carry champion that you are close to upgrading. If you see a lot of people playing slow (this can be hard if you are inexperienced). If you feel comfortable knowing when to switch to saving. If you are a hot blooded person and want to crush your enemies swiftly. Greedy Economy This strategy relies on getting to the 50 gold threshold as fast as possible so you can start"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_24",
+    "source": "02_mobalytics_economy",
+    "text": "conomy This strategy relies on getting to the 50 gold threshold as fast as possible so you can start raking in that maximum interest. From one perspective, being greedy is actually quite reliable, since you can’t always control whether you win or not, but you can ALWAYS control how much you lose. Gameplan: You want to make sure that you are hitting your interest thresholds as soon as possible."
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_25",
+    "source": "02_mobalytics_economy",
+    "text": ". Gameplan: You want to make sure that you are hitting your interest thresholds as soon as possible. That means you aren’t buying much at all outside of really strong core units that you think you will need. You don’t want to level up before you reach 50 gold either and have accrued your first interest. Every gold you spend early will cost you time and interest before you hit the threshold. Be"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_26",
+    "source": "02_mobalytics_economy",
+    "text": "nterest. Every gold you spend early will cost you time and interest before you hit the threshold. Be careful though. You want to field a strong enough team to not lose too much HP and to not lose to creeps. Losing to creeps will make you miss out on valuable items. Feel free to equip strong finished items on units you know you are going to sell and use them as item holders before you find your"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_27",
+    "source": "02_mobalytics_economy",
+    "text": "shed items on units you know you are going to sell and use them as item holders before you find your carry. Also, remember that you can buy units when you can’t reach an interest threshold and then sell them to reach the interest threshold next round. You should be doing this in case you can make a pair into a 2 star unit. Example: You have three units on the board at round 2-1, 8 gold in the"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_28",
+    "source": "02_mobalytics_economy",
+    "text": "ke a pair into a 2 star unit. Example: You have three units on the board at round 2-1, 8 gold in the bank, and 2 units on the bench. You quickly assess the upcoming fight and realize that you won’t win by a long shot. You decide to sell everything on the bench, go to 10 gold and continue to lose streak until 50 gold. Once at 50, you level to 6, pick up Kai'Sa and put your items on her. You start"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_29",
+    "source": "02_mobalytics_economy",
+    "text": "treak until 50 gold. Once at 50, you level to 6, pick up Kai'Sa and put your items on her. You start winning, level to 7, and keep rerolling to build around your Vayne all while staying above 50 gold. Once it looks like you are close to dying, or around 30 HP, you spend all your gold either rerolling or hitting level 8 and then rerolling. Strengths: There are several advantages that work in your"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_30",
+    "source": "02_mobalytics_economy",
+    "text": "ing or hitting level 8 and then rerolling. Strengths: There are several advantages that work in your favor when you are being greedy. GOLD! You have more overall gold to work with by the end of the game It’s fairly easy to maintain a lose-streak into the mid game since your units will likely be weaker than teams that opted to look for early upgrades. If you find lots of natural upgrades, you can"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_31",
+    "source": "02_mobalytics_economy",
+    "text": "aker than teams that opted to look for early upgrades. If you find lots of natural upgrades, you can both win streak and greed your gold, putting you in great late game position. You have priority on the carousel and can pick units/items that fit your plans. You have the ability to see what your opponents are building before you commit to a composition. With more gold, you are more likely to find"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_32",
+    "source": "02_mobalytics_economy",
+    "text": "ponents are building before you commit to a composition. With more gold, you are more likely to find high cost units in the late game. Weaknesses: Just like Aggressive Economy, playing greedily brings its own problems. Even if you are able to stabilize your team in the late game, one bad loss can take what little HP you might have left over. Depending on how many players play aggressively, you"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_33",
+    "source": "02_mobalytics_economy",
+    "text": "n take what little HP you might have left over. Depending on how many players play aggressively, you might take too much damage to even make it to the late game. You might not be able to reroll your gold fast enough in the late game to ensure you can stay alive once your HP dips too low. When should I be greedy? You can almost always rely on this strategy to get you to a certain point. The"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_34",
+    "source": "02_mobalytics_economy",
+    "text": "n should I be greedy? You can almost always rely on this strategy to get you to a certain point. The difficulty is understanding how to balance your HP loss with your gold gain and when you should spend to go under the 50 gold threshold. You have a bad hand to start and can’t really make any 2 star units to contest your opponents. You are a bit more experienced and prefer having a lot of gold to"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_35",
+    "source": "02_mobalytics_economy",
+    "text": "r units to contest your opponents. You are a bit more experienced and prefer having a lot of gold to make decisions from a late game position with intelligence on your opponents. You understand breakpoints with income and levels really well. You never want to level with 2 exp carry over, and you don’t want to miss your income threshold. You know how to dump gold fast and can see that moment"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_36",
+    "source": "02_mobalytics_economy",
+    "text": "you don’t want to miss your income threshold. You know how to dump gold fast and can see that moment before it’s too late by assessing your rounds. You only want to hard force 1 build every game, and thus play greedily to ensure you find the right units every game. Balanced Economy This is what most other games would consider a standard opening. You don’t want to limit your options early by"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_37",
+    "source": "02_mobalytics_economy",
+    "text": "at most other games would consider a standard opening. You don’t want to limit your options early by committing to an econ strategy, and you want to be able to pick up important units while being able to hit interest thresholds and level at a steady rate. Unfortunately, this is also the hardest strategy to play, since you have to know what to pick up, what to keep, when to sell, when to level,"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_38",
+    "source": "02_mobalytics_economy",
+    "text": "strategy to play, since you have to know what to pick up, what to keep, when to sell, when to level, and when to cross interest thresholds. That’s why mastering one of the other economic strategies can lead to quicker results for you since you are playing a specific strategy really well. Gameplan: You want to make smart moves to steadily progress in level and economy. Buy strong units, keep"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_39",
+    "source": "02_mobalytics_economy",
+    "text": "plan: You want to make smart moves to steadily progress in level and economy. Buy strong units, keep pairs, and only level or reroll if you have a specific purpose in mind. Don’t spend gold early unless you naturally hit units and want to win streak by leveling. Alternatively, if you low roll, you will likely want to lose streak at the beginning of the game to get more gold. Don’t lose too hard,"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_40",
+    "source": "02_mobalytics_economy",
+    "text": "will likely want to lose streak at the beginning of the game to get more gold. Don’t lose too hard, though, since you don’t want to lose too much HP early. You want to recognize your win streaks and lose streaks and play accordingly. Leveling during a losing streak when you are below 50 gold makes no sense since you want to keep losing and are in no rush to make your board stronger. Example: In"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_41",
+    "source": "02_mobalytics_economy",
+    "text": "s no sense since you want to keep losing and are in no rush to make your board stronger. Example: In the early game you’ll often find yourself holding many pairs (or if you’re lucky, upgraded units). In most scenarios, you will want to start making interest as early as possible. Selling off units to reach the nearest interest threshold can be a reliable plan, though in some cases, you may"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_42",
+    "source": "02_mobalytics_economy",
+    "text": "units to reach the nearest interest threshold can be a reliable plan, though in some cases, you may consider taking a bit of a gamble. Let’s say you happen to be on a winning streak. If you’re feeling confident, you could make the bet that you’ll win the next fight, therefore earning enough gold to increase your interest. Alternatively, perhaps you have a weaker unit on the bench that would"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_43",
+    "source": "02_mobalytics_economy",
+    "text": "old to increase your interest. Alternatively, perhaps you have a weaker unit on the bench that would still slot-in effectively, allowing you to sell the better unit and guarantee your economy. There are a lot of ways you can go with the early game and they make a huge difference in how the rest of your game goes. Make sure to pay attention to all your decisions in the early game because your"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_44",
+    "source": "02_mobalytics_economy",
+    "text": "t of your game goes. Make sure to pay attention to all your decisions in the early game because your economy, streak, and units you hold can determine a lot of your game! Strengths: Flexibility and ability to win most games. Being able to lean more towards a greedy or aggressive economy at any point based on your rolls and your opponents can be very powerful. Keeps your options open for different"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_45",
+    "source": "02_mobalytics_economy",
+    "text": "t based on your rolls and your opponents can be very powerful. Keeps your options open for different unit opportunities during the early to mid game. Can lose streak or win streak depending on the game state. You have the tools you need to stand up to aggressive opponents while still somewhat keeping up with passive opponents in the late game. Once mastered, you will quickly adapt to any meta or"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_46",
+    "source": "02_mobalytics_economy",
+    "text": "ing up with passive opponents in the late game. Once mastered, you will quickly adapt to any meta or patch changes Weaknesses: While being an “ideal strategy,” the ideal decisions aren’t always made. While you have the best of both worlds in terms of aggressive and greedy playstyles, you also suffer both weaknesses. Making the wrong decision can ruin your economy making it extremely difficult to"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_47",
+    "source": "02_mobalytics_economy",
+    "text": "er both weaknesses. Making the wrong decision can ruin your economy making it extremely difficult to recover. A semi-aggressive start that flops will make it extremely hard to recover. A semi-greedy start can lose too much HP before you are able to recover. By not fully committing to a strategy, you may find yourself in awkward situations where full commitment would have resulted in a better"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_48",
+    "source": "02_mobalytics_economy",
+    "text": "y, you may find yourself in awkward situations where full commitment would have resulted in a better result. Being able to adapt constantly to enemy boards, given units, items, etc will be a very steep learning curve. When should I be balanced? This strategy is like a swiss army knife. If you know how to weave between different options, you can easily be successful with this strategy in any"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_49",
+    "source": "02_mobalytics_economy",
+    "text": "know how to weave between different options, you can easily be successful with this strategy in any situation. If you are experienced and understand the different conditions that you can take advantage of at different critical rounds. If you have a reasonable start, but not stellar and don’t want to commit to anything just yet. If you have a strong grasp of all the different compositions in the"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_50",
+    "source": "02_mobalytics_economy",
+    "text": "to commit to anything just yet. If you have a strong grasp of all the different compositions in the game and can switch between them based on the rolls you are getting. If you are good at scouting opponents and building appropriately. Bonus Advanced Tips Ideal strategies often are reactions to the meta. If you’ve been playing TFT throughout set 2, or throughout any set really, you might have"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_51",
+    "source": "02_mobalytics_economy",
+    "text": "the meta. If you’ve been playing TFT throughout set 2, or throughout any set really, you might have been in a situation where one patch you just can’t seem to win, whereas another patch you were dominating. You understand what strong team comps are and try to build them, but have trouble adjusting. What you might not have realized is that economy playstyles often adjust with what meta comps are"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_52",
+    "source": "02_mobalytics_economy",
+    "text": "g. What you might not have realized is that economy playstyles often adjust with what meta comps are strong. History Example: In set 2, patch 9.24B was a patch where late game units like Amumu and Nami were built into almost every comp. Units like Olaf, Kha’Zix, and Brand were all very strong. Because of this, players often played semi-greedy and prioritized gold and leveling to hit these high"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_53",
+    "source": "02_mobalytics_economy",
+    "text": "ecause of this, players often played semi-greedy and prioritized gold and leveling to hit these high level units. Players often leveled up to 7 and 8 earlier and didn’t roll much before then. Contrast patch 9.24B with 10.1, where Azir and Sivir along with blademasters are some of the most potent carries in the game. Because of this, games have become a lot faster. More players roll down at level"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_54",
+    "source": "02_mobalytics_economy",
+    "text": "arries in the game. Because of this, games have become a lot faster. More players roll down at level 6 to look for strong 3-cost units. As a result, slower comps that revolve around 4 or 5 cost units may have trouble keeping up. With this in mind, players should try to learn the ins and outs of playing both greedily and aggressively as they will adapt faster to meta changes in their playstyle."
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_55",
+    "source": "02_mobalytics_economy",
+    "text": "playing both greedily and aggressively as they will adapt faster to meta changes in their playstyle. Playing for Top 4 Some games you just won’t find the items you need and the champs that you need. Because of this, lots of players will often opt to ditch their basic leveling or rolling strategy and just decide to all in. Example: You just hit level 7 and roll down but fail to find upgrades on"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_56",
+    "source": "02_mobalytics_economy",
+    "text": "and just decide to all in. Example: You just hit level 7 and roll down but fail to find upgrades on half of your team. You proceed to lose a round or two and fall down to 30-40 HP or lower. While you could continue to build your economy to eventually hit level 8, you can instead decide to continue rolling to ensure you are at least able to make top 4 or even 5th or 6th place. Some games test"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_57",
+    "source": "02_mobalytics_economy",
+    "text": "inue rolling to ensure you are at least able to make top 4 or even 5th or 6th place. Some games test your ability to practice loss mitigation. Rebuilding your economy and praying you high roll units can be a strategy that will net you a higher placement, but some games you have to learn when it’s time to cut your losses and try to mitigate the LP loss you are likely to receive. Correct decision"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_58",
+    "source": "02_mobalytics_economy",
+    "text": "time to cut your losses and try to mitigate the LP loss you are likely to receive. Correct decision vs. Optimal decision Sometimes, you may make a decision that will be the wrong one in hindsight. Maybe you are at 8 gold and decide to sell your a unit pair and then that unit shows up in the shop immediately after.. In these situations, don’t tilt as the decision you made may have been the most"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_59",
+    "source": "02_mobalytics_economy",
+    "text": "immediately after.. In these situations, don’t tilt as the decision you made may have been the most optimal one at the time. Had the unit not shown up in the shop, your decision would have been correct. Because TFT does have chance in it, it is important to make decisions based off the best chances even if those chances don’t always happen. Hindsight will always make you question your decisions,"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_60",
+    "source": "02_mobalytics_economy",
+    "text": "s even if those chances don’t always happen. Hindsight will always make you question your decisions, but try to review your decisions as optimal rather than correct in hindsight. Conclusion These are the major ways to think about economy. I provided you with the basics but the beauty of a game like this is all the different opportunities that present themselves. Autopiloting the same strategies"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_61",
+    "source": "02_mobalytics_economy",
+    "text": "ke this is all the different opportunities that present themselves. Autopiloting the same strategies and relying on memorization will get you nowhere, but mastering the fundamentals and understanding how to build on them with a style that works is a sure path to victory. Good luck out there! We hope you enjoyed this economy guide! For team comps, tier lists, champion info, and more, be sure to"
+  },
+  {
+    "id": "02_mobalytics_economy_chunk_62",
+    "source": "02_mobalytics_economy",
+    "text": "hope you enjoyed this economy guide! For team comps, tier lists, champion info, and more, be sure to check out our TFT site ! 1 . Overview 2 . Guide A Beginner’s Guide to Econ in TFT The Fundamentals of TFT Economy 1. Aggressive Economy Greedy Economy Balanced Economy Conclusion Back to top Teamfight Tactics Meta: Best Comps and Builds for TFT Set 17 (Patch 17.4b)"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_0",
+    "source": "03_mobalytics_leveling",
+    "text": "TFT Guide Standard Leveling Guide in TFT - Set 17 Set 17 Guides By Oli Updated on Apr 21, 2026 Apr 21, 2026 Share Welcome to our TFT guide covering the standard leveling strategy. We cover the Basics of Leveling in another guide, but for this article, I’ll be going in depth on the topic of standard or default comps. Standard comps are still some of the strongest and most consistent comps in TFT,"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_1",
+    "source": "03_mobalytics_leveling",
+    "text": "d or default comps. Standard comps are still some of the strongest and most consistent comps in TFT, and the core strategy has been around since the beginning. However, as time passed, players began to innovate more and more upon the basic leveling strategy. There’s a lot to cover, so let’s jump right into the guide. What is a Standard/Default Leveling Strategy As the name suggests, the standard"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_2",
+    "source": "03_mobalytics_leveling",
+    "text": "ight into the guide. What is a Standard/Default Leveling Strategy As the name suggests, the standard leveling strategy is the basic strategy to level up over the course of the game. Reroll comps want to be under leveled to hit 3-star units and Fast 8/9 strategies save up lots of gold to level up faster. The Standard Leveling strategy is the baseline for a simple team comp that runs a 4-cost"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_3",
+    "source": "03_mobalytics_leveling",
+    "text": "up faster. The Standard Leveling strategy is the baseline for a simple team comp that runs a 4-cost carry. 4-cost carries are reliable to find and are strong enough to carry at 2-star. Overall, the Standard Leveling Strategy is a guideline to both keep in board strength while also optimizing your gold generation. Power Spike Rounds I touch on this concept in the other leveling guides, so I’ll"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_4",
+    "source": "03_mobalytics_leveling",
+    "text": "ur gold generation. Power Spike Rounds I touch on this concept in the other leveling guides, so I’ll only briefly reiterate them here. In TFT, there are natural points in the game where you want to be spending gold to level up or roll. These Stages are: Round 3-2 (Second Augment) Round 4-1/4-2 (Last Augment) Note: Some players may opt to power spike at 4-2 to gain some extra gold and see what"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_5",
+    "source": "03_mobalytics_leveling",
+    "text": "(Last Augment) Note: Some players may opt to power spike at 4-2 to gain some extra gold and see what their last augment is. Others will do so at 4-1 in order to pick up contested units or continue a win streak. Round 5-1 (End Game) These Rounds naturally correspond to the baseline Standard Leveling strategy. Outside of these rounds, you generally don’t want to be spending too much gold. It’s"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_6",
+    "source": "03_mobalytics_leveling",
+    "text": "eling strategy. Outside of these rounds, you generally don’t want to be spending too much gold. It’s important to build your economy to set you up for success in later points of the game. Standard Leveling Strategy With these Rounds in mind, let’s dive into detail on the major points in the game and what to do. Stage 2 In general, Stage 2 is the early point in the game where you can play flexibly"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_7",
+    "source": "03_mobalytics_leveling",
+    "text": "d what to do. Stage 2 In general, Stage 2 is the early point in the game where you can play flexibly and see what happens. If you find multiple copies of a 1-cost unit, you may consider playing a Reroll Strategy. Or maybe you find lots of upgrades, and decide to go for a win streak. Conversely, if you can’t find upgrades naturally, you can decide to commit to losing to build up some streak gold."
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_8",
+    "source": "03_mobalytics_leveling",
+    "text": "you can’t find upgrades naturally, you can decide to commit to losing to build up some streak gold. Whatever the case may be, here’s a general outline of what to do for the standard leveling strategy. 2-1: Optional Level 4 Round 2-1 is the first round where you will fight another opponent. During Stage 1, you’ll be fighting neutral creeps to get Gold, Items, or other loot. Here is where you will"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_9",
+    "source": "03_mobalytics_leveling",
+    "text": "Stage 1, you’ll be fighting neutral creeps to get Gold, Items, or other loot. Here is where you will decide whether to level up or not. At 2-1, you will be exactly 4 Gold/XP from level 4. If you find lots of upgrades early or a strong core of units from the same trait, you can opt to level up to try and win streak. This is an efficient use of Gold as you’re hitting level 4 with only one XP"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_10",
+    "source": "03_mobalytics_leveling",
+    "text": "p to try and win streak. This is an efficient use of Gold as you’re hitting level 4 with only one XP purchase. Conversely, if you don’t find upgrades in Stage 1, you should hold off to lose streak and try to hit your interest breakpoints (10, 20, etc) asap. 2-5: Optional Level 5 After the Carousel comes Round 2-5. Once again, this is another leveling breakpoint as you will be 4 Gold/XP away from"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_11",
+    "source": "03_mobalytics_leveling",
+    "text": "comes Round 2-5. Once again, this is another leveling breakpoint as you will be 4 Gold/XP away from level 5. If you’re win streaking, you should consider leveling up to add in another unit to keep your streak going. If you’re not confident you can hold onto your streak, you can hold off and build up your economy instead. If you didn’t level up to 4 prior to this point, you will be 8 Gold/XP from"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_12",
+    "source": "03_mobalytics_leveling",
+    "text": "up your economy instead. If you didn’t level up to 4 prior to this point, you will be 8 Gold/XP from level 5. If your luck turns around from your start, you can maybe decide to level up to 5 to start a win streak and save some HP. Otherwise, you can stay at level 4 and continue building up your gold. 2-7: Krugs 2-7 is the final round of Stage 2, and you will be fighting Krugs at this point. You"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_13",
+    "source": "03_mobalytics_leveling",
+    "text": "old. 2-7: Krugs 2-7 is the final round of Stage 2, and you will be fighting Krugs at this point. You will ideally have a streak of at least 2 so you can get some extra Gold from the minion round. If you leveled up at all prior to this point, you don’t need to worry about leveling up just yet. If you didn’t level at all, you should be Level 4 with 6/10 XP toward level 5. At this point, you can opt"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_14",
+    "source": "03_mobalytics_leveling",
+    "text": "u didn’t level at all, you should be Level 4 with 6/10 XP toward level 5. At this point, you can opt to level up to 5 in order to get a better shop with higher-cost units on 3-1. Or if you want to keep saving Gold, you can stay at level 4. If you’re sitting at 25ish Gold, you can still consider leveling up to upgrade your next shop while still staying above your current interest breakpoint (20)."
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_15",
+    "source": "03_mobalytics_leveling",
+    "text": "veling up to upgrade your next shop while still staying above your current interest breakpoint (20). Stage 3 After Stage 2, the game definitely simplifies a bit if you just want to follow the standard strategy. 3-1: Level 5 Minimum If you committed to lose streaking and saving gold, you will still be level 4 at 3-1 with 8/10 XP. It’s generally advised to level up to 5 here so you don’t lose too"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_16",
+    "source": "03_mobalytics_leveling",
+    "text": "l be level 4 at 3-1 with 8/10 XP. It’s generally advised to level up to 5 here so you don’t lose too much HP from losing fights. If you still feel healthy HP wise, you can stay level 4 to keep building up your economy. 3-2: Level 6 The basic strategy suggests you to level up to 6 on 3-2. This is after you receive your second Augment, and you can look to this round to upgrade your board. If you’re"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_17",
+    "source": "03_mobalytics_leveling",
+    "text": "ter you receive your second Augment, and you can look to this round to upgrade your board. If you’re on a win streak, you definitely want to level up to maintain it and add in another strong unit. Even if you’re on a lose streak, you still should try to hit level 6 to not lose fights badly. If you stay at level 5 and lose fights by large margins, you will lose HP very quickly. Stage 4 Similar to"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_18",
+    "source": "03_mobalytics_leveling",
+    "text": "stay at level 5 and lose fights by large margins, you will lose HP very quickly. Stage 4 Similar to Stage 3, Stage 4 only really has one power spike round that’s important. 4-1: Level 7 Once again, the standard leveling plan has mos t players level up to 7 at 4-1. This is right after the minion round, which will let you build up your gold. Like all power spike stages, you can use this moment to"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_19",
+    "source": "03_mobalytics_leveling",
+    "text": "ound, which will let you build up your gold. Like all power spike stages, you can use this moment to evaluate your current position. If you’re strong, you can start saving up for level 8, and if you’re weak, you should commit some gold to strengthen your board. Stage 5 Stage 5 is generally the final Power Spike you should play toward. However, you can still look toward Stage 6 as an endgame power"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_20",
+    "source": "03_mobalytics_leveling",
+    "text": "l Power Spike you should play toward. However, you can still look toward Stage 6 as an endgame power spike if you’re confident you’ll survive until then. 5-1: Level 8 The final main power spike will be on Round 5-1. Most players will level up to 8 here and roll down to upgrade their team comp as much as possible. Look to build a board with multiple upgraded 4-cost units and find all the units you"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_21",
+    "source": "03_mobalytics_leveling",
+    "text": "ch as possible. Look to build a board with multiple upgraded 4-cost units and find all the units you need for your team comp. If you’re able to fully upgrade your team, you can start saving up again for Stage 6 to try and hit level 9 or potentially even go for a 3-star 4-cost if you’re lucky. Stage 6 In most games, you won’t reach Stage 6. You’ll either die before reaching it or the other players"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_22",
+    "source": "03_mobalytics_leveling",
+    "text": "6 In most games, you won’t reach Stage 6. You’ll either die before reaching it or the other players in the lobby will die before then. Even still, if you’re mostly finished upgrading your team on Stage 5, start to save up for Stage 6 for a potential level 9 upgrade. Stage Breakdown Summary The stage breakdown can be quite long to keep track of, so here’s a quick summary of the basic leveling"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_23",
+    "source": "03_mobalytics_leveling",
+    "text": "stage breakdown can be quite long to keep track of, so here’s a quick summary of the basic leveling strategy. 2-1: Optional Level 4 to win streak 2-5: Optional Level 5 to win streak 2-7: Krugs, latest Level 5 3-2: Level 6 4-1: Level 7 5-1: Level 8 6-1: Potential Level 9 Deviations to Standard Leveling What I just covered is the basic leveling strategy, but you’ll often see players deviate from"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_24",
+    "source": "03_mobalytics_leveling",
+    "text": "veling What I just covered is the basic leveling strategy, but you’ll often see players deviate from this strategy depending on the situation. Here are a few examples of how you can deviate from this strategy. Pre-Leveling First up, let’s talk about pre-leveling. This isn’t really a deviation from standard leveling. It’s more of a small bonus you can get. Pre-leveling is the act of spending gold"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_25",
+    "source": "03_mobalytics_leveling",
+    "text": "standard leveling. It’s more of a small bonus you can get. Pre-leveling is the act of spending gold until your are 2 XP away from your level up. By doing this, at the start of the next round, you will naturally level up. When this happens, you shop will have higher odds of hitting higher-cost units. This is often done during Stage 2 in order to continue a win streak. For example, let’s say it’s"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_26",
+    "source": "03_mobalytics_leveling",
+    "text": "ts. This is often done during Stage 2 in order to continue a win streak. For example, let’s say it’s currently 2-3 and you are level 4 with 4/10 XP. The next round will be the carousel, and then it will immediately proceed to 2-5. If you’re on a 3 round win streak and have 14+ Gold, it’s very common to pre-level here. By buying XP once, you will be 8/10 XP and still have 10 Gold to maintain your"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_27",
+    "source": "03_mobalytics_leveling",
+    "text": "on to pre-level here. By buying XP once, you will be 8/10 XP and still have 10 Gold to maintain your interest threshold. Once 2-5 begins, you’ll automatically level up to 5, resulting in higher shop odds. This can also be done at Stage 1-3. If you find multiple upgraded 1-cost units, you may want to pre-level to 4 on 2-1. This way, you have better odds of finding some good 2-cost units."
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_28",
+    "source": "03_mobalytics_leveling",
+    "text": "may want to pre-level to 4 on 2-1. This way, you have better odds of finding some good 2-cost units. Aggressive Leveling Moving on, let’s talk about some true deviations from standard leveling. These deviations will usually boil down to two categories, aggressive leveling and greedy leveling. For aggressive leveling, you can look to level up faster than the standard leveling game plan. This can"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_29",
+    "source": "03_mobalytics_leveling",
+    "text": "aggressive leveling, you can look to level up faster than the standard leveling game plan. This can be a strong option if you are win streaking and are finding some natural upgrades. By leveling up sooner, you’re putting more pressure onto your opponents and likely continuing your win streak. However, this comes at a risk. If you level aggressively to win streak, you can put yourself behind if"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_30",
+    "source": "03_mobalytics_leveling",
+    "text": "wever, this comes at a risk. If you level aggressively to win streak, you can put yourself behind if you lose your streak. If you level up sooner than usual and lose immediately after, you lost out on potential interest gold you could’ve made if you didn’t level. Here are some common points where people level up aggressively. Level 6 at 3-1 Level 7 at 3-5 Level 8 at 4-2 to 4-5 The main goal of"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_31",
+    "source": "03_mobalytics_leveling",
+    "text": "e people level up aggressively. Level 6 at 3-1 Level 7 at 3-5 Level 8 at 4-2 to 4-5 The main goal of aggressive leveling is to pressure your opponents and get off to an early lead. Doing so successfully can result in a consistent top 4 finish. However, aggressive leveling should be reserved for games where your early luck powers up your team comp naturally, so you shouldn’t just force this"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_32",
+    "source": "03_mobalytics_leveling",
+    "text": "for games where your early luck powers up your team comp naturally, so you shouldn’t just force this strategy every game. Greedy Leveling On the other hand, greedy leveling is simply the opposite of aggressive leveling. Instead of leveling up early, you instead level up later than usual in order to build up more gold. This can be a strong choice to make if you are on a lose streak and want to"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_33",
+    "source": "03_mobalytics_leveling",
+    "text": "r to build up more gold. This can be a strong choice to make if you are on a lose streak and want to simply build up more gold than catch up. Eventually, the goal is to build up enough gold so that you can pass other players in levels earlier. For example, if you want to be greedy you can level up at these rounds: Level 6 at 3-5 Level 7 at 4-2 Greedy leveling can also be a strong choice if your"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_34",
+    "source": "03_mobalytics_leveling",
+    "text": "p at these rounds: Level 6 at 3-5 Level 7 at 4-2 Greedy leveling can also be a strong choice if your board is decently strong, but you have less gold than usual. In this case, you’re effectively trading your HP in order to gain more gold. While aggressive leveling is risky for your economy, greedy leveling is risky for your HP. The overall goal of greedy leveling is to sacrifice your HP in order"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_35",
+    "source": "03_mobalytics_leveling",
+    "text": "leveling is risky for your HP. The overall goal of greedy leveling is to sacrifice your HP in order to later build a team comp that will let you stabilize. If you’re behind, you can use this strategy as a way to all in for a top finish. Or, if you’re ahead, you can be greedy to try and secure a 1st or 2nd place finish. Fast 9 Lastly, let’s briefly touch on Fast 9. This is the process of saving"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_36",
+    "source": "03_mobalytics_leveling",
+    "text": "1st or 2nd place finish. Fast 9 Lastly, let’s briefly touch on Fast 9. This is the process of saving up gold to hit level 9 quickly before other players. This will allow you to find 5-cost units and power up your board to the point where you stabilize and win every fight afterward. The same concept can apply to Fast 8. (Save up gold to level up to 8 faster than the lobby, finding 4-cost units"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_37",
+    "source": "03_mobalytics_leveling",
+    "text": "cept can apply to Fast 8. (Save up gold to level up to 8 faster than the lobby, finding 4-cost units easier) While Fast 8/9 can be it’s own dedicated strategy, it can also be a variation of a game you played with standard leveling. If you are aggressive early game and find yourself in a big lead, you can choose to sacrifice your HP in Stage 5 to save up for level 9. Or, if you’re greedy early"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_38",
+    "source": "03_mobalytics_leveling",
+    "text": "d, you can choose to sacrifice your HP in Stage 5 to save up for level 9. Or, if you’re greedy early game, you can sacrifice your HP early to go for Fast 8 as a risky all or nothing strategy. If you want to learn more about this strategy, you can learn more details in our Fast 9 Guide. Closing Words That wraps up all of the basics on the standard leveling strategy. This leveling strategy has been"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_39",
+    "source": "03_mobalytics_leveling",
+    "text": "s That wraps up all of the basics on the standard leveling strategy. This leveling strategy has been around since the beta of TFT, but players continue to innovate and build upon this framework. If you’re a new player, following the strategy every game can help you learn other fundamentals. As you have more time to think about the little decisions, you can start to experiment and go from there."
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_40",
+    "source": "03_mobalytics_leveling",
+    "text": "u have more time to think about the little decisions, you can start to experiment and go from there. Thanks for reading! Hopefully this guide helps you on your TFT journey. If you want to learn more about leveling strategies, check out our other guides as well. TFT 3 Basic Leveling Strategies TFT Reroll Leveling Guide TFT Fast 9 Guide 1 . Overview 2 . Leveling Guide What is a Standard/Default"
+  },
+  {
+    "id": "03_mobalytics_leveling_chunk_41",
+    "source": "03_mobalytics_leveling",
+    "text": "FT Reroll Leveling Guide TFT Fast 9 Guide 1 . Overview 2 . Leveling Guide What is a Standard/Default Leveling Strategy Power Spike Rounds Standard Leveling Strategy Stage Breakdown Summary Deviations to Standard Leveling Closing Words Back to top Teamfight Tactics Meta: Best Comps and Builds for TFT Set 17 (Patch 17.4b)"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_0",
+    "source": "04_mobalytics_positioning",
+    "text": "Teamfight Tactics Guides TFT For Beginners Guides TFT Positioning Guide: How to Get the Most from Your Units AlanDood December 17, 2025 ∙ 12 Min read Table of contents Positioning Guide Welcome to our TFT positioning guide, where I will cover just about everything I know about placing your units. This will span everything from the basics and fundamentals, to the more complex micro decisions. I’ve"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_1",
+    "source": "04_mobalytics_positioning",
+    "text": "his will span everything from the basics and fundamentals, to the more complex micro decisions. I’ve been playing TFT ever since the beta, and have peaked my LP in Challenger in the early sets. While I don’t push all the way to Grandmaster/Challenger anymore, I can comfortably hit Master in just about any set. I won’t be the absolute best player to learn from, but I can provide a lot of"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_2",
+    "source": "04_mobalytics_positioning",
+    "text": "in just about any set. I won’t be the absolute best player to learn from, but I can provide a lot of insightful tips you might not think about. With the intro out of the way, let’s get right into the guide, starting with the basics. Basic Positioning – The Fundamentals Every concept or skill you learn in TFT has an underlying principle or fundamental that you should understand. While a lot of"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_3",
+    "source": "04_mobalytics_positioning",
+    "text": "u learn in TFT has an underlying principle or fundamental that you should understand. While a lot of this may seem like common sense, having a good grasp of the basics gives you more insight into more advanced topics. Frontline + Backline The absolute basics when it comes to positioning is about placing your defensive units (tanks) in the frontline (first two rows) and your ranged/carry units in"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_4",
+    "source": "04_mobalytics_positioning",
+    "text": "lacing your defensive units (tanks) in the frontline (first two rows) and your ranged/carry units in the backline (bottom two rows). *If your carry unit is melee, you will want to place them in the second row instead.* So far so good, place the tanks in front, and the ranged squishies in the back. If you’re a beginner learning about the set, how do you know what constitutes a tank vs a squishy?"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_5",
+    "source": "04_mobalytics_positioning",
+    "text": ". If you’re a beginner learning about the set, how do you know what constitutes a tank vs a squishy? This is something you’ll learn fairly quickly, but it’s a combination of their base stats (Armor, MR, Health), Ability, and Traits. Common Frontline Identifiers High Base Health Higher Base Armor/MR (30+ for 1-3 Cost units, and 50+ for 4-5-Cost units) Defensive Abilities (Damage Reduction,"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_6",
+    "source": "04_mobalytics_positioning",
+    "text": "Armor/MR (30+ for 1-3 Cost units, and 50+ for 4-5-Cost units) Defensive Abilities (Damage Reduction, Shields, Taunts) Tank Traits (Behemoth, Bruiser, Warden, etc) Shorter Range (1-2) Common Backline Identifiers Lower Base Health Lower Base Armor/MR (15-25 for 1-3 cost units, and <50 for 4-5 Cost units) Offensive Abilities (Damaging Abilities, long range abilities) Damage Traits (Reaper, Sniper,"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_7",
+    "source": "04_mobalytics_positioning",
+    "text": "units) Offensive Abilities (Damaging Abilities, long range abilities) Damage Traits (Reaper, Sniper, etc) Longer Range (3+) There are exceptions to these rules, and these usually happen with tankier frontline carries. So now you know where to put your units, but where exactly do you place them on the board? In the middle? The corners? In a circle? Generic Positioning Unfortunately, there is"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_8",
+    "source": "04_mobalytics_positioning",
+    "text": "m on the board? In the middle? The corners? In a circle? Generic Positioning Unfortunately, there is rarely a one size fits all for every team comp and positioning, and things will vary based on many game factors. However, there are still some basic generic rules you can follow to place your units on the board. These rules are especially useful in the early game. When you only have 4-5 units on"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_9",
+    "source": "04_mobalytics_positioning",
+    "text": "s on the board. These rules are especially useful in the early game. When you only have 4-5 units on the board, there are less variables that change how you want to position. Generic Positioning Rules Carry in Backline/Melee Carry in 2nd row You generally will place your ranged carrys in the backline. You can opt to place them in the corners or in the middle. It depends if the enemy team has"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_10",
+    "source": "04_mobalytics_positioning",
+    "text": "ackline. You can opt to place them in the corners or in the middle. It depends if the enemy team has skills that can snipe them or not. Frontline strongest outside When you have multiple units in your frontline, you usually will want to place the tankiest ones on the outside, and your weaker tanks on the inside. This is to combat enemy boards that place their carries in the corner. Having your"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_11",
+    "source": "04_mobalytics_positioning",
+    "text": "ks on the inside. This is to combat enemy boards that place their carries in the corner. Having your strongest tank take the most damage early on will stall longer and allow you to get more value out of your other tanks. You also generally want to have your strongest tank closest to your strongest carrys. This will help your carrys take less damage compared to if they’re on the opposite side with"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_12",
+    "source": "04_mobalytics_positioning",
+    "text": "carrys. This will help your carrys take less damage compared to if they’re on the opposite side with a weaker tank. Spread vs Clump (Focus Fire vs Balance) In general, clumping your units together on one side of the board is not ideal, but that is more so in the late game. In the early game, I prefer to sometimes clump my units closer together to have them focus fire onto one unit, taking them"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_13",
+    "source": "04_mobalytics_positioning",
+    "text": "refer to sometimes clump my units closer together to have them focus fire onto one unit, taking them down faster. The faster you can skew the numbers into your favor, the better your early game will be. However, in the late game, there are a lot of negatives to clumping. You are susceptible to many CC abilities or even AoE damage abilities if you clump, making a more spread out board advantageous"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_14",
+    "source": "04_mobalytics_positioning",
+    "text": "CC abilities or even AoE damage abilities if you clump, making a more spread out board advantageous in the late game. Following these few rules, you should have a fairly decent positioning throughout the game. There are other considerations to make as well, which we’ll go into next. Intermediate Positioning – Polishing With the basics out of the way, the next step is to learn how to position"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_15",
+    "source": "04_mobalytics_positioning",
+    "text": "te Positioning – Polishing With the basics out of the way, the next step is to learn how to position against specific enemy boards. In TFT, you are given an indication near enemy HP bars, letting you know what board you may face next. While this is technically scouting and not positioning, the two things are essentially intertwined. A large part of scouting is to reposition your board, and a"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_16",
+    "source": "04_mobalytics_positioning",
+    "text": "two things are essentially intertwined. A large part of scouting is to reposition your board, and a large part of positioning is to counter enemy boards. Counter-Positioning When looking at an enemy board, there are tons of factors to consider. You can gain an advantage in a variety of ways. There are honestly too many considerations to list. Overall, it just boils down to minimizing your"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_17",
+    "source": "04_mobalytics_positioning",
+    "text": ". There are honestly too many considerations to list. Overall, it just boils down to minimizing your opponent’s threats, while maximizing your own. Sometimes you can do both at once, other times you can’t avoid it. In this next portion, I’ll cover just about everything I can think of when it comes to positioning. Hooks In TFT, some sets contains a type of hook, either in a champion ability, or an"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_18",
+    "source": "04_mobalytics_positioning",
+    "text": "to positioning. Hooks In TFT, some sets contains a type of hook, either in a champion ability, or an item. These hooks will pull the furthest unit toward them, potentially sniping your backline carry. In some sets like Set 3, Blitzcrank is a 1-cost unit with this ability. In Set 4, we had Aatrox, a 4-cost unit that pulled the two furthest units. We also previously had the Ornn Artifact,"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_19",
+    "source": "04_mobalytics_positioning",
+    "text": "Aatrox, a 4-cost unit that pulled the two furthest units. We also previously had the Ornn Artifact, “Rocket-Propelled Fist”, that does the same thing as well. Hooks are important to scout for and position around, but if you have a hook, there are some creative things you can do as well. Be on the lookout for interesting combos and synergies. Backline Access Units Assassins are no longer present"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_20",
+    "source": "04_mobalytics_positioning",
+    "text": "lookout for interesting combos and synergies. Backline Access Units Assassins are no longer present in the game, and we likely won’t see them come back. However, there may still units in the game that can access the backline. For example, Kha’Zix from Set 11 was able to jump to the lowest Health enemy within 3 hexes. This can be problematic if he jumps onto your backline carry and assassinates"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_21",
+    "source": "04_mobalytics_positioning",
+    "text": "enemy within 3 hexes. This can be problematic if he jumps onto your backline carry and assassinates them. There are two main ways to counter Assassin-type units. Position your carry away from them. You can simply move your carry to the opposite side of wherever you see Kha’Zix. This can work temporarily, but he may eventually jump onto your carry. Your opponent can also predict this and move"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_22",
+    "source": "04_mobalytics_positioning",
+    "text": "emporarily, but he may eventually jump onto your carry. Your opponent can also predict this and move Kha’Zix as well. Clump your ranged units together. If you have multiple ranged units, you can clump them around your carry. This will prevent Kha’Zix from having space to jump toward your carry. However, this leaves you susceptible to AoE effects and Kha’Zix might just chew through everyone and"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_23",
+    "source": "04_mobalytics_positioning",
+    "text": "However, this leaves you susceptible to AoE effects and Kha’Zix might just chew through everyone and reach your carry anyway. Item Considerations There have been a fair number of positional-based items throughout TFT’s many sets, many of which have come and gone. While these items can be generically useful on their own, oftentimes you’ll get way more value once you can align them accordingly to"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_24",
+    "source": "04_mobalytics_positioning",
+    "text": "lly useful on their own, oftentimes you’ll get way more value once you can align them accordingly to support your team comp. Ionic Spark/Sunfire Cape An important thing to note about Sunfire Cape and Ionic Spark is that they both have a range of 2 hexes. If you place them on a normal frontline, you won’t be able to reach the backline with the effects. However, if you pair them with a unit that"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_25",
+    "source": "04_mobalytics_positioning",
+    "text": "you won’t be able to reach the backline with the effects. However, if you pair them with a unit that can bypass the frontline, you can get more value out of these items. Champion Considerations Champion Targeting Most Champions in the game cast their ability on their target (the unit they are auto attacking). However, there are exceptions in each Set that you should learn about. Caitlyn targets"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_26",
+    "source": "04_mobalytics_positioning",
+    "text": "o attacking). However, there are exceptions in each Set that you should learn about. Caitlyn targets the farthest unit, but hits the first unit that contacts the ability. In Set 8, Talon will jump to the unit furthest from the center of the board. There are plenty more examples every set. A lot of champions in the game don’t always cast on their target. Learning all of these and taking them into"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_27",
+    "source": "04_mobalytics_positioning",
+    "text": "champions in the game don’t always cast on their target. Learning all of these and taking them into consideration is important for positioning throughout the game. Ability Types There are lots of different types of abilities in the game. Some champions provide utility, such as healing or shielding nearby units. In these situations you want to try and target your most important units with these"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_28",
+    "source": "04_mobalytics_positioning",
+    "text": "ng nearby units. In these situations you want to try and target your most important units with these effects. Another example are abilities that pierce through enemies and hit everyone in a line, which is quite the contrast to those that aim far but don’t pierce at all (Caitlyn). Among some of the strongest options are Crowd Control abilities, providing ways to lock down enemies via stuns,"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_29",
+    "source": "04_mobalytics_positioning",
+    "text": "of the strongest options are Crowd Control abilities, providing ways to lock down enemies via stuns, knockups, and more. As you can see, there’s a lot of nuance to your decisions, but as you learn the ins and outs of various champions, you’ll gain more opportunities to exploit them to their fullest. Augment Considerations A lot of augments provide buffs similar to that of items. These are all"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_30",
+    "source": "04_mobalytics_positioning",
+    "text": "lest. Augment Considerations A lot of augments provide buffs similar to that of items. These are all pretty self explanatory. Position in some way to get a buff. Putting it all together With all of these things covered, the hard part is putting it all together. How can you decide when to reposition? Should you clump your units for AoE buffs, but be at risk of large AoE abilities? Should you"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_31",
+    "source": "04_mobalytics_positioning",
+    "text": "sition? Should you clump your units for AoE buffs, but be at risk of large AoE abilities? Should you spread out your CC abilities or put them on different sides of the board to put your opponents in a lose lose? Should I place my AP carry in the second row for Battle Mage buff, or place her in the corner where she’s safer? There are honestly infinite considerations you can make during"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_32",
+    "source": "04_mobalytics_positioning",
+    "text": "her in the corner where she’s safer? There are honestly infinite considerations you can make during positioning, and unfortunately, I can’t answer these questions with a rule. As you play more and more, you will learn what worked and what didn’t, and that will ultimately improve your skill. Advanced Positioning – Refining Once you’ve learned all the intermediate skills, you can go a long way"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_33",
+    "source": "04_mobalytics_positioning",
+    "text": "vanced Positioning – Refining Once you’ve learned all the intermediate skills, you can go a long way simply by refining those skills. Positioning well around abilities and items is more than enough to reach even Master tier. In this section, I’ll be going over other small intricacies that may help give you a slight edge. Even still, these things only affect a tiny portion of the game, so"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_34",
+    "source": "04_mobalytics_positioning",
+    "text": "may help give you a slight edge. Even still, these things only affect a tiny portion of the game, so understanding this will only help a little bit. Whereas everything above will help out much more. Understanding AI One of the most intriguing things about TFT is actually watching the fights. Usually they play out just about how you expect. Other times, one of your units does something crazy and"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_35",
+    "source": "04_mobalytics_positioning",
+    "text": "lly they play out just about how you expect. Other times, one of your units does something crazy and it ruins your round. I’m no expert in the fight mechanics, but here are some things I’ve noticed. Targeting When choosing a unit to target, for the most part, units will prioritize the unit that is closest to them, and if not, will walk toward a target. If there are two targets that are the same"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_36",
+    "source": "04_mobalytics_positioning",
+    "text": "s closest to them, and if not, will walk toward a target. If there are two targets that are the same distance, the game likely picks a random target. (This is notable for frontlines when facing off) There are other considerations as well. If there is no space to attack a unit, the character will retarget to a new unit. These are just a few of the rules I’ve noticed over my games, but there are"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_37",
+    "source": "04_mobalytics_positioning",
+    "text": "retarget to a new unit. These are just a few of the rules I’ve noticed over my games, but there are definitely plenty more. The more you can learn about how the fight plays out, the better you will be able to position. Here are just a few examples of things you can do with this information: If the opponent has only one frontline, you can surround them with 4 units attacking, and have a melee"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_38",
+    "source": "04_mobalytics_positioning",
+    "text": "the opponent has only one frontline, you can surround them with 4 units attacking, and have a melee carry bypass them and move onto the backline. You can target abilities with better accuracy. You’re able to target the exact unit you want to, taking down priority targets. The list goes on and on. This is a skill that can be refined and refined and there is no perfect player when it comes to"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_39",
+    "source": "04_mobalytics_positioning",
+    "text": "on. This is a skill that can be refined and refined and there is no perfect player when it comes to this. Major positioning changes are hard because other players can react to what you’re doing. But the better you can skew odds in your favor, the more you will climb consistently. Walking This one is not so much of an advanced topic, but I thought I should cover it as well. It is extremely"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_40",
+    "source": "04_mobalytics_positioning",
+    "text": "is one is not so much of an advanced topic, but I thought I should cover it as well. It is extremely important that you minimize the amount of walking that your units need to do. This is especially important if you have a melee carry. If you place your melee carry in the 3rd or 4th row, you’re giving up valuable time because they need to walk up to hit enemies. Instead, you can figure out what is"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_41",
+    "source": "04_mobalytics_positioning",
+    "text": "ng up valuable time because they need to walk up to hit enemies. Instead, you can figure out what is a safe spot and you can place them in the 2nd or even 1st row sometimes. Another common mistake is accidentally blocking a melee unit. If you completely cover the frontline with units and place another unit behind them, place them somewhere where there’s an opening for them to go. If you cover the"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_42",
+    "source": "04_mobalytics_positioning",
+    "text": "her unit behind them, place them somewhere where there’s an opening for them to go. If you cover the right side of the board, don’t place another melee unit on the 2nd row right side. Place them more toward the middle. They’ll need to walk there anyway, so let them get there faster. Optimizing Frontline and Backline For the last portion of AI, I’m going to talk about some small intricacies that a"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_43",
+    "source": "04_mobalytics_positioning",
+    "text": "tline and Backline For the last portion of AI, I’m going to talk about some small intricacies that a large majority of players don’t need to learn. Even still, if you can take advantage of these things, you can gain a small percentage edge over the competition. While this won’t make the difference between a Gold and Diamond player, it can be the difference between a Master and Grandmaster player."
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_44",
+    "source": "04_mobalytics_positioning",
+    "text": "between a Gold and Diamond player, it can be the difference between a Master and Grandmaster player. Left Side vs Right Side One thing that might not seem big is whether to place your units on the right side of the board, the left side of the board, or the middle. There is only a slight difference between the left and right sides. The bottom right corner and top left corner are further right and"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_45",
+    "source": "04_mobalytics_positioning",
+    "text": "between the left and right sides. The bottom right corner and top left corner are further right and left respectively. While this doesn’t matter in most situations, it can come up vs things like a hook or Caitlyn’s ability targeting. Furthermore, if every opponent in the game is placing their board on one side, should you do the same? Or should you mirror their position on the board. Well, it’s"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_46",
+    "source": "04_mobalytics_positioning",
+    "text": "rd on one side, should you do the same? Or should you mirror their position on the board. Well, it’s hard to say. Like many things, it’s largely circumstantial. Let me give an example. Head to Head vs Same Side If you and an opponent face off with near identical boards, and place your units on the same side, you will end up fighting along a diagonal. This is basically a head to head battle, where"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_47",
+    "source": "04_mobalytics_positioning",
+    "text": "same side, you will end up fighting along a diagonal. This is basically a head to head battle, where both teams will focus fire one unit down first and so on. Well, if you reposition and replace your frontline, you can make it so the enemy team targets your strongest frontline, while your team targets the enemy’s weakest frontline. (Let’s assume Blitzcrank is the strongest tank on both sides)"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_48",
+    "source": "04_mobalytics_positioning",
+    "text": "targets the enemy’s weakest frontline. (Let’s assume Blitzcrank is the strongest tank on both sides) This is an example of a very small edge you can create with repositioning. However, in early game situations, you won’t have a guarantee as to who you will fight. You may reposition for one board, and end up fighting a different board where you are at a disadvantage. Because of this, you will need"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_49",
+    "source": "04_mobalytics_positioning",
+    "text": "nd end up fighting a different board where you are at a disadvantage. Because of this, you will need to consider every board you might face, and make the best decision to optimize your fight odds. This is quite tiring to do every round, and every game, so it’s often not done until the mid to late game. Even still, just making one small decision that saves you 1 HP can be the difference between a"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_50",
+    "source": "04_mobalytics_positioning",
+    "text": "game. Even still, just making one small decision that saves you 1 HP can be the difference between a 7th and a 3rd. Or it can be the difference between a 5 win streak going into Krugs, or no win streak. As the game progresses, boards get larger, and gaining small advantages like this get more difficult. However, the more effort you put toward positioning, the more you will gain out of it. Extra"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_51",
+    "source": "04_mobalytics_positioning",
+    "text": "ficult. However, the more effort you put toward positioning, the more you will gain out of it. Extra Tips For this last section, I’ll just be going over anything else related to positioning that I can think of. These will be short and sweet tips, so let’s speedrun them. Sometimes placing your carries toward the front is correct, especially when facing Assassin-type units. Other times, placing"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_52",
+    "source": "04_mobalytics_positioning",
+    "text": "arries toward the front is correct, especially when facing Assassin-type units. Other times, placing your important carry in the middle back row is a good spot to avoid powerful long range abilities. You can try placing your frontline in the 3rd row or even the 2nd row to spread out your opponent’s team and make them walk forward. This will let your backline deal damage right as the fight begins,"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_53",
+    "source": "04_mobalytics_positioning",
+    "text": "team and make them walk forward. This will let your backline deal damage right as the fight begins, but your opponent’s frontline will gain mana faster than yours. Conclusion That just about wraps up everything I know about positioning. Positioning is a core fundamental skill that every player can improve, even at the highest level. While you may not feel the effects of better positioning every"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_54",
+    "source": "04_mobalytics_positioning",
+    "text": "n improve, even at the highest level. While you may not feel the effects of better positioning every game, over the course of many games, you should start to see improvement. TFT is a great game because there are so many fundamental skills you can learn and polish. Positioning, Itemization, Pivoting, Economy, and more are all important. Even still, with just generic positioning, you can still"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_55",
+    "source": "04_mobalytics_positioning",
+    "text": "oting, Economy, and more are all important. Even still, with just generic positioning, you can still make it very high on the ladder if you are strong in other areas. If you feel like your games aren’t going as well, maybe it’s time to start polishing up other skills you haven’t worked on. Thanks for reading, and I hope this helps you on your climb. To learn about the next TFT Set, head to our"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_56",
+    "source": "04_mobalytics_positioning",
+    "text": "s for reading, and I hope this helps you on your climb. To learn about the next TFT Set, head to our all-in-one Teamfight Tactics Set 16 reveal page that covers all champions, synergies, and more! TFT For Beginners Guides 3 Subscribe to our newsletter: Don’t miss out on all of the latest TFT content! Table of contents Basic Positioning Frontline and Backline Generic Positioning Intermediate"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_57",
+    "source": "04_mobalytics_positioning",
+    "text": "content! Table of contents Basic Positioning Frontline and Backline Generic Positioning Intermediate Positioning Counter Positioning Hooks Backline Access Item Considerations Champion Considerations Ability Targeting Ability Type Utility Crowd Control Augments Advanced Positioning Unit AI Walking Optimizing Positioning Head to Head Extra Tips Conclusion Back to top League of Legends In-game"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_58",
+    "source": "04_mobalytics_positioning",
+    "text": "king Optimizing Positioning Head to Head Extra Tips Conclusion Back to top League of Legends In-game Overlay LoL Tier List GPI Personal Match History Summoner Search LoL Champions Teamfight Tactics In-game Overlay Meta Team Comps Team Comps Builder Personal Match History Player Search Leaderboards TFT Champions TFT Tier List Valorant Map Guides & Tips Agents Personal Match History Player Search"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_59",
+    "source": "04_mobalytics_positioning",
+    "text": "s TFT Champions TFT Tier List Valorant Map Guides & Tips Agents Personal Match History Player Search Leaderboards Master Class Resources Blog Infographics Videos About GPI Research FAQ Other Proving Grounds Founders Wall Mobalytics Plus Press Talk to our team on: Handcrafted with ❤ by Gamers for Gamers Mobalytics isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_60",
+    "source": "04_mobalytics_positioning",
+    "text": "mers Mobalytics isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends™ and Riot Games are trademarks or registered trademarks of Riot Games, Inc. Terms of Service Privacy Policy Cookie Policy Connect with us: Copyright © 2016-2026. Gamers Net, Inc. This website uses cookies"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_61",
+    "source": "04_mobalytics_positioning",
+    "text": "icy Cookie Policy Connect with us: Copyright © 2016-2026. Gamers Net, Inc. This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More Privacy & Cookies Policy Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_62",
+    "source": "04_mobalytics_positioning",
+    "text": "e your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_63",
+    "source": "04_mobalytics_positioning",
+    "text": "d how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_64",
+    "source": "04_mobalytics_positioning",
+    "text": "absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics,"
+  },
+  {
+    "id": "04_mobalytics_positioning_chunk_65",
+    "source": "04_mobalytics_positioning",
+    "text": "ry for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. SAVE & ACCEPT"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_0",
+    "source": "05_reddit_fundamentals",
+    "text": "The Golden Rule Gold and HP (Two Main Resources) In TFT, the two main resources that you use are Gold (Income) and HP (Hit Points/Health). Proper, effective and correct econ is about managing both of these resources, not just one or the other. The first concept to understand is that the two resources are separate, but also connected. If you spend gold by either leveling to have a unit advantage,"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_1",
+    "source": "05_reddit_fundamentals",
+    "text": "ces are separate, but also connected. If you spend gold by either leveling to have a unit advantage, or rerolling to 2* your units, then you are more likely to win more rounds, thereby preserving HP. If you “spend” HP by tanking hits and losses by either not leveling and/or not rerolling, then you are more likely to lose more rounds, thereby saving up gold as you did not use any gold in the"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_2",
+    "source": "05_reddit_fundamentals",
+    "text": "n you are more likely to lose more rounds, thereby saving up gold as you did not use any gold in the process of you playing and potentially losing those rounds. Key Point 1: If you spend gold → you preserve HP If you spend HP → you preserve gold The problem occurs when you should be spending one resource to guarantee the saving up of the other resource, but you fail to do either one and end up"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_3",
+    "source": "05_reddit_fundamentals",
+    "text": "resource to guarantee the saving up of the other resource, but you fail to do either one and end up doing a blurry mix of both, or none at all. In this worst-case scenario, your econ will be severely crippled and you will struggle in the later stages of the match. Key Point 2: If you spend gold → you preserve HP becomes: If you spend gold, you MUST preserve HP. If you spend HP → you preserve"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_4",
+    "source": "05_reddit_fundamentals",
+    "text": "d → you preserve HP becomes: If you spend gold, you MUST preserve HP. If you spend HP → you preserve gold becomes ⇒ If you spend HP, you MUST preserve gold. The “MUST” signifies that you have to play in a way to best guarantee that result as much as possible, otherwise you would be at a deficit (not worth). Golden Rule #1 Play for Interest gold, but when you find the timing to be stronger, use"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_5",
+    "source": "05_reddit_fundamentals",
+    "text": "(not worth). Golden Rule #1 Play for Interest gold, but when you find the timing to be stronger, use gold SURELY and EFFICIENTLY (level up to put in a meaningful synergy/roll down to hit 2*/3* to stabilize board) Golden Rule #2 If you used gold, you MUST WIN the next round(s). Gold Income Sources Basic gold Interest gold ← this is the only thing within your control Streak bonus gold (win/loss)"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_6",
+    "source": "05_reddit_fundamentals",
+    "text": "s Basic gold Interest gold ← this is the only thing within your control Streak bonus gold (win/loss) Round win gold *Therefore, the only time to forgo the one area within your control (interest gold) is to spend gold in order to guarantee a worthwhile and justifiable GAIN. These timings depend on: Strength of your current board and what units you have on the board and bench (pairs) Strength of"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_7",
+    "source": "05_reddit_fundamentals",
+    "text": "n: Strength of your current board and what units you have on the board and bench (pairs) Strength of opponents’ boards (lobby tempo) Standard level-up timings (2-1, 2-5, 3-2, 4-2) Units on bench Units getting contested by opponents (might have to reroll earlier/faster to get the units first) Understanding these timings can be crucial in order to minimize the RNG, donkey roll, or “bleeding out and"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_8",
+    "source": "05_reddit_fundamentals",
+    "text": "tanding these timings can be crucial in order to minimize the RNG, donkey roll, or “bleeding out and emergency rolling to survive” in stage 3, 4 playstyle (if you hit your units, top 4 or 1st, but if you don’t hit, bottom 4 or 8th) and build more consistent fundamentals where you are more “in control” of the game and pace. Why is leveling up important? It allows you to preserve and maintain"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_9",
+    "source": "05_reddit_fundamentals",
+    "text": "control” of the game and pace. Why is leveling up important? It allows you to preserve and maintain health (HP). It lets you see higher cost units from shops. Therefore, it is almost always better to win streak as opposed to lose streak in stage 2 as you can preserve health (there are exceptions) 4. Set-Up for Success: Stage 1 Stage 1 Minion Drop Info If the game is a “3-component” game, then"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_10",
+    "source": "05_reddit_fundamentals",
+    "text": "s) 4. Set-Up for Success: Stage 1 Stage 1 Minion Drop Info If the game is a “3-component” game, then the drop variance is: 3 components + 6 gold 2 components + 12 gold 1 component + 18 gold Key Points: Each component has a value of 6 gold (Champion Duplicator = 3 gold, Lesser Champion Duplicator = 2 gold) If you receive more than 9 gold on 1-3, then you will have less items but more gold than the"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_11",
+    "source": "05_reddit_fundamentals",
+    "text": "2 gold) If you receive more than 9 gold on 1-3, then you will have less items but more gold than the lobby. The blue orb dropped by the LAST MINION will ALWAYS be a COMPONENT. You can use this information to determine what situation out of the above that you are in when heading into 2-1, which helps you set the agenda for your econ: If it’s a 1-item or 2-item game (lots of gold), then unless you"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_12",
+    "source": "05_reddit_fundamentals",
+    "text": "ps you set the agenda for your econ: If it’s a 1-item or 2-item game (lots of gold), then unless you spent some gold by hitting lots of 2*, then by the end of 1-4 (right before first augment) you should aim to hit 10g or 20g interest. Afterward, econ using standard level-up timings and rules (unless playing reroll comp) If it’s a portal map that gives you three 1-cost units or one 3-cost unit,"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_13",
+    "source": "05_reddit_fundamentals",
+    "text": "less playing reroll comp) If it’s a portal map that gives you three 1-cost units or one 3-cost unit, and you get 6 gold at 1-2, if you make 1 unit solo the minions at 1-3, you can start 10g interest at the end of 1-3. 5. Unit Strength Comparison Estimator 1 Cost 1* < 2 Cost 1* < 3 Cost 1 ≤ 1 cost 2* < 2 cost 2* ≤ 4 cost 1 ≤ 3 cost 2* It is also important to maintain the frontline/backline balance"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_14",
+    "source": "05_reddit_fundamentals",
+    "text": "* < 2 cost 2* ≤ 4 cost 1 ≤ 3 cost 2* It is also important to maintain the frontline/backline balance of the board so that your units can maximize their potential (2 tank units, 2 backline units - with some exceptions) Key Point: As you build up the early game, prioritize units using the following criteria in order: Units that are 2* Units that have items Traits Example: Which board is stronger?"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_15",
+    "source": "05_reddit_fundamentals",
+    "text": "criteria in order: Units that are 2* Units that have items Traits Example: Which board is stronger? VS On the left, we have 3 Portal and 2 Vanguard traits activated, while on the right, we have 2 Shapeshifters and 2 Scholars. While some people may put in 3 Portals for the trait, 2* are stronger because you almost have twice the stats. Flat stats are stronger early in the game. Also, because Zoe"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_16",
+    "source": "05_reddit_fundamentals",
+    "text": "ecause you almost have twice the stats. Flat stats are stronger early in the game. Also, because Zoe is the one holding items, it is more advantageous to place units that she can benefit from, to gain most value from her being 2* and itemized. 6. Reroll Timings by Unit Cost Depending on the cost level of your MAIN CARRY, the reroll timing is different: Cost Round Level Notes 1 3-1 4 DO NOT level"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_17",
+    "source": "05_reddit_fundamentals",
+    "text": "evel of your MAIN CARRY, the reroll timing is different: Cost Round Level Notes 1 3-1 4 DO NOT level up 2-1. At 3-1, you will be level 4 with 8 XP, with around 30-50 gold. Reroll all your gold and try to 3* all your 1 cost main units Use the early 3 stars to preserve HP and win stage 3, potentially also stage 4 as you now accumulate interest gold and build up 2 3-2 6 Hit lvl 6 at 3-2 Reroll just"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_18",
+    "source": "05_reddit_fundamentals",
+    "text": "y also stage 4 as you now accumulate interest gold and build up 2 3-2 6 Hit lvl 6 at 3-2 Reroll just a bit to either 2* your carry and other units, or just enough to stabilize board 3* all main 2 costs by 4-1 (slow roll) 3 3-5 OR 7-1 7 Hit lvl 7 at 3-5 OR 4-1 Reroll just a bit to either 2* your carry and other units, or just enough to stabilize board 3* all main 3 costs by ideally 4-5 OR 5-1"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_19",
+    "source": "05_reddit_fundamentals",
+    "text": "r carry and other units, or just enough to stabilize board 3* all main 3 costs by ideally 4-5 OR 5-1 (slow roll) 4 (3-5)/4-1 OR 4-2 OR 4-5 8 Depends on the situation (covered down below in level-up timings by round) but usually you want to have at least 40g remaining after hitting lvl 8 so you have enough gold to hit your 4-cost units (exceptions: bleeding out, contested units, etc.) 7. Level Up"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_20",
+    "source": "05_reddit_fundamentals",
+    "text": "e enough gold to hit your 4-cost units (exceptions: bleeding out, contested units, etc.) 7. Level Up Timings with Detailed Notes These level-up timings show the justification to hit that level, per round. Level 4 Round Tempo Notes 1-4 early 2-1 standard MUST scout, and only level if you can guarantee a win Hit 2* on 2 or more units, enabling a win streak Chance to see lvl 5 shop early If no 2*,"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_21",
+    "source": "05_reddit_fundamentals",
+    "text": "ntee a win Hit 2* on 2 or more units, enabling a win streak Chance to see lvl 5 shop early If no 2*, or holding many 1-cost pairs, or aiming to do a 1-cost reroll comp, DO NOT level here. 2-2 Won 2-1, you might win next round if you level, but may lose if not Also looking to lvl 5 at 2-5 2-3 standard “Natural” level 4 Level 5 Round Tempo Notes 2-3 early Not holding any important 1-cost pairs Does"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_22",
+    "source": "05_reddit_fundamentals",
+    "text": "rd “Natural” level 4 Level 5 Round Tempo Notes 2-3 early Not holding any important 1-cost pairs Does not affect interest to pre-level 2-5 standard When you feel like leveling can guarantee a win or meaningful effect If you did not level 4 on 2-1 or 2-2, you will need 8 gold, so only level if you can 100% win next round 2-6 Non- standard Not really recommended to level 5 here, however: You did not"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_23",
+    "source": "05_reddit_fundamentals",
+    "text": "n 100% win next round 2-6 Non- standard Not really recommended to level 5 here, however: You did not level 5 on 2-5 because you thought you would lose, but you won OR you hit 2* this round and may lose if you do not level 2-7 (3-1) standard If you did not level in stage 2, look at interest situation and level Level if your board is weak (all 1*, no items) and cannot defeat Krugs Level 6 Round"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_24",
+    "source": "05_reddit_fundamentals",
+    "text": "ation and level Level if your board is weak (all 1*, no items) and cannot defeat Krugs Level 6 Round Tempo Notes 2-5, 2-6 special: augment Took Birthday Present, Spoils of War III, or Going Long Prismatic augments 3-1 early At least a 3W streak, and if you level 6 early, you will win next round and continue streak Must scout the other player who is also win streaking to judge strength of boards"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_25",
+    "source": "05_reddit_fundamentals",
+    "text": "nd continue streak Must scout the other player who is also win streaking to judge strength of boards You have excess gold so that you can still hold 50g interest after leveling 6 (from gold augment or loss streaking) 3-2 standard 2-cost reroll comps hit 6 here, and reroll a bit to hit 2* and stabilize You are win streaking and are holding lots of pairs. Level to 6 and reroll 1-2 times (try to"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_26",
+    "source": "05_reddit_fundamentals",
+    "text": "abilize You are win streaking and are holding lots of pairs. Level to 6 and reroll 1-2 times (try to hold 30g interest) Can hold 40g interest after leveling to 6 If leveling to 6 leaves you with 30g interest after, only do it if it makes a meaningful difference for board strength/HP maintenance (key unit going in) 3-3 Non- standard Not really recommended to level 6 here, however: If you won 3-2"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_27",
+    "source": "05_reddit_fundamentals",
+    "text": "key unit going in) 3-3 Non- standard Not really recommended to level 6 here, however: If you won 3-2 as level 5, then level to 6 here. 3-5 standard If your econ was bad at 3-2 (level 5 with ~40g), then wait until this round (3-5) to level to 6. If you are playing a 2-cost reroll comp that is already stabilized and winning, AND you are not contested, you do not have to level to 6 on 3-2 if you"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_28",
+    "source": "05_reddit_fundamentals",
+    "text": "ready stabilized and winning, AND you are not contested, you do not have to level to 6 on 3-2 if you feel like you can wait while maintaining the win streak. Wait until 3-5, hit level 6 here and you can play a “wealthy” 2-cost reroll comp. Level 7 Round Tempo Notes 3-2 special: augment or portal Special portal (Scuttle Puddle or Crab Rave - lots of gold given) OR special augment giving lots of"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_29",
+    "source": "05_reddit_fundamentals",
+    "text": "Special portal (Scuttle Puddle or Crab Rave - lots of gold given) OR special augment giving lots of gold OR loss streak/open forting → tempo play by pushing lvl 7 early 3-5 early early level 7, so requires a clear, justifiable reason: You will have 40g remaining even after leveling to 7 You WILL win the rest of stage 3 if you level here To establish 3-cost reroll comp comeback timing 3-6 non-"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_30",
+    "source": "05_reddit_fundamentals",
+    "text": "L win the rest of stage 3 if you level here To establish 3-cost reroll comp comeback timing 3-6 non- standard You did not level to 7 on 3-5 because you predicted to lose, but you ended up winning, AND you will have 40g remaining even after leveling to 7. 3-7 (4-1) standard 4-cost comp standard level 7 timing (4/10 games you will level to 7 here) 4-2 (and after) screwed If you are NOT playing a"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_31",
+    "source": "05_reddit_fundamentals",
+    "text": "evel 7 timing (4/10 games you will level to 7 here) 4-2 (and after) screwed If you are NOT playing a 1-cost or 2-cost reroll comp and you leveled to 7 here, that means you failed your econ this game. Level 8 Round Tempo Notes 3-5 special: augment Took Birthday Present, Spoils of War III, or Going Long Prismatic augments → tempo play 4-1 early Level to 8 here if: You will have 40g remaining after"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_32",
+    "source": "05_reddit_fundamentals",
+    "text": "Long Prismatic augments → tempo play 4-1 early Level to 8 here if: You will have 40g remaining after leveling to 8 Your units are getting contested and you need to find them first (minimum 30g) If you do not have at least 40g after leveling to 8 but RNG fails you when rerolling your 4-costs, then no future for that game. 4-2 standard At least 40g after leveling to 8 4-3 Non- standard Not"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_33",
+    "source": "05_reddit_fundamentals",
+    "text": "s, then no future for that game. 4-2 standard At least 40g after leveling to 8 4-3 Non- standard Not recommended to level to 8 here, unless you were hit by a truck during stage 3 (level 7) and you need to level here to “survive” 1 round 4-5 standard If you have to level to 8 here, it probably means your econ was not that good this game due to: You rerolled quite a bit during level 6/7 to"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_34",
+    "source": "05_reddit_fundamentals",
+    "text": "bly means your econ was not that good this game due to: You rerolled quite a bit during level 6/7 to stabilize board, so your HP maintenance is good but now your gold is lacking OR You just simply had bad econ Level 9 One of the most key fundamentals is stabilizing/completing your comp by level 8 and looking level 9. Determining your board strength at level 8 → units + synergy Unless you are"
+  },
+  {
+    "id": "05_reddit_fundamentals_chunk_35",
+    "source": "05_reddit_fundamentals",
+    "text": "l 8 and looking level 9. Determining your board strength at level 8 → units + synergy Unless you are looking to push level 10, you need to use gold EACH round to reroll for charms. (If you find cheap/weak charms at this stage in the game, don’t be afraid to reroll for “better” charms as charms appear every other reroll)."
+  },
+  {
+    "id": "06_reddit_economy_chunk_0",
+    "source": "06_reddit_economy",
+    "text": "What is Item Economy? Item Economy is choosing and using your components efficiently to have the strongest overall set of items. There are countless factors to consider but this guide will focus on the most important ones. I will use the Renata/Singed composition for the examples (not from the same game). In this comp, our item priority is: Best in Slot (BiS) Renata > 3 item Singed > Antiheal >"
+  },
+  {
+    "id": "06_reddit_economy_chunk_1",
+    "source": "06_reddit_economy",
+    "text": "me game). In this comp, our item priority is: Best in Slot (BiS) Renata > 3 item Singed > Antiheal > Shred > secondary carry > secondary tank. Stage 2 – accumulate key components We are committed to Singed/Renata reroll, perhaps with a 2-1 augment like Voidcaller, Investment Strategy, No Scout No Pivot, etc. Our opening items are Chain Cloak Bow and we make Stoneplate. Because we want to reroll,"
+  },
+  {
+    "id": "06_reddit_economy_chunk_2",
+    "source": "06_reddit_economy",
+    "text": "Pivot, etc. Our opening items are Chain Cloak Bow and we make Stoneplate. Because we want to reroll, we stay level 3 and lose the first two rounds to level 4 players and are first pick on carousel. r/CompetitiveTFT - Item Economy Fundamentals A mistake is taking Belt here and completing Nashor’s here to have one of Renata’s 3 BiS items, which are Shojin, Nashor’s, and Archangel’s. However, we are"
+  },
+  {
+    "id": "06_reddit_economy_chunk_3",
+    "source": "06_reddit_economy",
+    "text": "re to have one of Renata’s 3 BiS items, which are Shojin, Nashor’s, and Archangel’s. However, we are not in a rush to slam items and be strong right now, as we are likely to lose anyway to level 5 players as a level 4. The problem is we still need two Tears for Renata BiS. We should take Tear here. Due to item bag sizes, we are more likely to be dropped diverse components instead of duplicates-"
+  },
+  {
+    "id": "06_reddit_economy_chunk_4",
+    "source": "06_reddit_economy",
+    "text": "e. Due to item bag sizes, we are more likely to be dropped diverse components instead of duplicates- at this point in the game, it is still very likely we will get our Nashor’s eventually. An added bonus here is that after Renata BiS, Tear is still a very strong component in the comp as it makes Shred with Shiv, and also makes multiple Singed items including Redemption which is BiS due to long"
+  },
+  {
+    "id": "06_reddit_economy_chunk_5",
+    "source": "06_reddit_economy",
+    "text": "Shred with Shiv, and also makes multiple Singed items including Redemption which is BiS due to long fights and the durability increasing the value of Renata’s shield (compared to HP), so we are actually happy if we get dropped extra Tears. Stage 3 - balance frontline and backline Having 3 Singed items and a “pretty good” Renata is much stronger than an incomplete Singed and BiS Renata. Note that"
+  },
+  {
+    "id": "06_reddit_economy_chunk_6",
+    "source": "06_reddit_economy",
+    "text": "tems and a “pretty good” Renata is much stronger than an incomplete Singed and BiS Renata. Note that because we are prioritizing our carousel picks for our Renata in this comp, we just hope to have 3 decent items on Singed rather than his BiS. However sometimes our item distribution will be heavily skewed one way or the other, in which case we may need to balance it out. In this scenario where we"
+  },
+  {
+    "id": "06_reddit_economy_chunk_7",
+    "source": "06_reddit_economy",
+    "text": "skewed one way or the other, in which case we may need to balance it out. In this scenario where we have 5/6 of our Renata components but 0/6 of Singed components, we should take a frontline component. r/CompetitiveTFT - Item Economy Fundamentals A common mistake I see here is taking bow to complete Nashor’s. However, it’s extremely likely that wolves on 3-7 will give us some offensive"
+  },
+  {
+    "id": "06_reddit_economy_chunk_8",
+    "source": "06_reddit_economy",
+    "text": "to complete Nashor’s. However, it’s extremely likely that wolves on 3-7 will give us some offensive components, so we can still have a decent 3rd Renata item here with something like Jeweled Gauntlet or a second Shojin, and hopefully we can remover it later in the game for Nashor’s. Having a 3 item Singed and a decent 3 item Renata can easily be the difference in 40 HP through stage 4 compared"
+  },
+  {
+    "id": "06_reddit_economy_chunk_9",
+    "source": "06_reddit_economy",
+    "text": "tem Singed and a decent 3 item Renata can easily be the difference in 40 HP through stage 4 compared to having a weak Singed and BiS Renata. Chain is a great choice since otherwise it can make the strongest items with Glove and Rod drops, but Tear is good as well (with Redemption being immediately buildable depending how much you need tempo). Belt is a bit worse and Cloak is much worse due to how"
+  },
+  {
+    "id": "06_reddit_economy_chunk_10",
+    "source": "06_reddit_economy",
+    "text": "buildable depending how much you need tempo). Belt is a bit worse and Cloak is much worse due to how many outs they have to make tank items, and how strong those items are. Stage 4 - use uncontested components There is only 1 more neutral round so we plan to not get too many more components. We can also estimate how many more components we’re likely to get, as we usually get 14-16 total without"
+  },
+  {
+    "id": "06_reddit_economy_chunk_11",
+    "source": "06_reddit_economy",
+    "text": "an also estimate how many more components we’re likely to get, as we usually get 14-16 total without augments or encounters by 5-1. While the guaranteed anvil gives a 50/50 chance of hitting any specific component, we should avoid saving multiple components that require specific outs because it is very unlikely we will hit all of them. In this scenario with open Rod, Chain, and Cloak shown on the"
+  },
+  {
+    "id": "06_reddit_economy_chunk_12",
+    "source": "06_reddit_economy",
+    "text": "very unlikely we will hit all of them. In this scenario with open Rod, Chain, and Cloak shown on the dummy, we need to be careful with what components we are left with when building items. r/CompetitiveTFT - Item Economy Fundamentals A mistake here would be making Crownguard. Even though it is a much better item than Stoneplate, doing so leaves us with a Cloak, which can only find very weak value"
+  },
+  {
+    "id": "06_reddit_economy_chunk_13",
+    "source": "06_reddit_economy",
+    "text": "ch better item than Stoneplate, doing so leaves us with a Cloak, which can only find very weak value as exactly Adaptive on Vex with 1/8 outs. Instead, if we save Rod, we keep 6/8 options open with some great ones including Deathcap, Archangel’s, Jeweled Gauntlet, and especially Morello. Meanwhile, even the weak options of Gunblade or Rageblade are comparable to Adaptive. Stage 5 - efficiently"
+  },
+  {
+    "id": "06_reddit_economy_chunk_14",
+    "source": "06_reddit_economy",
+    "text": "le, even the weak options of Gunblade or Rageblade are comparable to Adaptive. Stage 5 - efficiently use leftovers After Stage 5-1, we receive no more components so we should use all of them. Having two decent items is usually better than one great item and one dead item. There can be some exceptions, most commonly if we need shred or antiheal. When choosing an item from an anvil, it’s very"
+  },
+  {
+    "id": "06_reddit_economy_chunk_15",
+    "source": "06_reddit_economy",
+    "text": "ceptions, most commonly if we need shred or antiheal. When choosing an item from an anvil, it’s very important to determine what your entire item set will be. r/CompetitiveTFT - Item Economy Fundamentals A mistake here would be making Shojin on Vex. Even though Shojin is the strongest possible item you can make, it would leave a Hurricane as your leftover item which provides no value. Instead, we"
+  },
+  {
+    "id": "06_reddit_economy_chunk_16",
+    "source": "06_reddit_economy",
+    "text": "you can make, it would leave a Hurricane as your leftover item which provides no value. Instead, we still take Sword but making two decent items with Adaptive and Giant Slayer is much stronger. Closing thoughts As always, these are general concepts to improve how you think about TFT rather than hard rules to always follow- every situation in TFT is different, even the examples I picked have a"
+  },
+  {
+    "id": "06_reddit_economy_chunk_17",
+    "source": "06_reddit_economy",
+    "text": "hard rules to always follow- every situation in TFT is different, even the examples I picked have a lot of nuance that can change the answers (What is our HP? What is the encounter? What are our augments?). I chose to organize the concepts by the stages they are most relevant on, but they all apply to other stages. In addition, different comps may be more item agnostic. Contrary to the Renata"
+  },
+  {
+    "id": "06_reddit_economy_chunk_18",
+    "source": "06_reddit_economy",
+    "text": "pply to other stages. In addition, different comps may be more item agnostic. Contrary to the Renata example, if you have Academy Crest and you are 100 HP going into Stage 2 carousel, you should prioritize building an item immediately that is strongest on your current board in order to winstreak into Krugs, which gives a huge economic advantage. This is because the Academy line can use a mixture"
+  },
+  {
+    "id": "06_reddit_economy_chunk_19",
+    "source": "06_reddit_economy",
+    "text": "nto Krugs, which gives a huge economic advantage. This is because the Academy line can use a mixture of AD, AP, and tank items with multiple itemized carries from the trait. The units themselves are also less sensitive about their BiS than Renata, whose shield doesn’t scale with crit or damage amp."
+  },
+  {
+    "id": "07_reddit_positioning_chunk_0",
+    "source": "07_reddit_positioning",
+    "text": "Honestly, below diamond your positioning doesn’t matter much compared to learning econ and pivoting into what you hit. Much more efficient to learn those first, positioning comes half with experience anyways. Either way, here’s some basic rules u autopilot on POST LEVEL 7. Level 3-6 just put everything on the same side and focus fire down a enemy unit. For your frontline: Unless your comp has 4+"
+  },
+  {
+    "id": "07_reddit_positioning_chunk_1",
+    "source": "07_reddit_positioning",
+    "text": "thing on the same side and focus fire down a enemy unit. For your frontline: Unless your comp has 4+ frontline you don’t want to clump the units. Spreading 3 evenly each w 1 hex in between on the front row to avoid taking too much aoe. If your tank has effect items like Sunfire, spark, vow(if it’s like jarvan or sejuani) and shroud, you always want it on the same half of your carries to focus"
+  },
+  {
+    "id": "07_reddit_positioning_chunk_2",
+    "source": "07_reddit_positioning",
+    "text": "t’s like jarvan or sejuani) and shroud, you always want it on the same half of your carries to focus fire. You mostly want the unitemised trait bots to die first. Keep the frontliner you want to survive the longest like nasus center. If you are using Gwen and yasuo, their targeting is honestly quite random. Just put them on the 2nd row same side of the enemy carry and pray to mort they somehow"
+  },
+  {
+    "id": "07_reddit_positioning_chunk_3",
+    "source": "07_reddit_positioning",
+    "text": "uite random. Just put them on the 2nd row same side of the enemy carry and pray to mort they somehow kill them off at some point. For your backline: If the enemy has shroud or jarvan, avoid clumping like the plague. I don’t care if you have 3 chalice it’s better to only get the chalice on 2 units instead of 3 if it means you have a higher chance of dodging the stun on your carry. Preferably keep"
+  },
+  {
+    "id": "07_reddit_positioning_chunk_4",
+    "source": "07_reddit_positioning",
+    "text": "instead of 3 if it means you have a higher chance of dodging the stun on your carry. Preferably keep your units spread out across the back row. At lv7 minimum 1 unit should be furthest hex away from your carry on the back row to possibly bait jarvan multicasters yasuo Gwen ryze tHex and sion. Always keep your shred on the same side as your carry, namely lux azir should be hitting the same unit,"
+  },
+  {
+    "id": "07_reddit_positioning_chunk_5",
+    "source": "07_reddit_positioning",
+    "text": "ays keep your shred on the same side as your carry, namely lux azir should be hitting the same unit, so out them in the same corner. Same if you have yasuo and ionia aphelios with LW. If you have a 2 range unit with a non defensive ability like liss, Gwen n belveth, put them on the other half of the board away from your 4 range carry. They are rly good at baiting units."
+  },
+  {
+    "id": "08_metatft_composition_chunk_0",
+    "source": "08_metatft_composition",
+    "text": "What is TFT Teamfight Tactics is an 8-player free for all auto-battler, where you form your own army in order to fight for your side. If you come from card games, TFT can feel similar to deck builders, where you buy cards, or in this case units, from the shop in order to strengthen your deck/team. Build an unstoppable team, clash with rivals, and be the last one standing. The Units Every round in"
+  },
+  {
+    "id": "08_metatft_composition_chunk_1",
+    "source": "08_metatft_composition",
+    "text": "Build an unstoppable team, clash with rivals, and be the last one standing. The Units Every round in TFT, you will be offered a shop of units. These units will vary in pricing from 1 cost to 5 cost. While not always true, generally the higher the cost of the unit the stronger they are. If you manage to buy three of the same unit, then you will create a 2-star unit, which makes the unit stronger."
+  },
+  {
+    "id": "08_metatft_composition_chunk_2",
+    "source": "08_metatft_composition",
+    "text": "ge to buy three of the same unit, then you will create a 2-star unit, which makes the unit stronger. A 2-star 1 cost unit is often stronger than a 1-star 2 cost unit. If you get three of the same 2-star unit, then you will create a powerful 3-star unit. Also, although extremely rare, if you manage to collect three of the same 3-star unit, then you will create a 4-star unit. Units that you already"
+  },
+  {
+    "id": "08_metatft_composition_chunk_3",
+    "source": "08_metatft_composition",
+    "text": "to collect three of the same 3-star unit, then you will create a 4-star unit. Units that you already have on your bench or board will be highlighted in the shop if they appear again. Items As the game goes on, you will be dropped components. These components can be combined to create items. You can right click on an item to see all the possible combinations of an item. If you do not know what"
+  },
+  {
+    "id": "08_metatft_composition_chunk_4",
+    "source": "08_metatft_composition",
+    "text": "can right click on an item to see all the possible combinations of an item. If you do not know what items to make, you can right click on a unit you own and hover over their role and it will show you generally what items are good on that unit. Items are really important and make your board strong, so it is advised to combine your components as often as possible to make items instead of worrying"
+  },
+  {
+    "id": "08_metatft_composition_chunk_5",
+    "source": "08_metatft_composition",
+    "text": ", so it is advised to combine your components as often as possible to make items instead of worrying about getting the best possible components for later in the game. Right clicking the unit also shows you their ability, stats, and generally where to position them. Traits On the left side of your screen, there will be a list of traits. Each trait will require a certain number of units to"
+  },
+  {
+    "id": "08_metatft_composition_chunk_6",
+    "source": "08_metatft_composition",
+    "text": "of your screen, there will be a list of traits. Each trait will require a certain number of units to activate, usually the first breakpoint will be two or three, but some will activate with only one unit. Knowing this, you want a combination of units that share similar traits to activate their bonuses, while also having 2-star or 3-star champions to make your board stronger.If you want to try"
+  },
+  {
+    "id": "08_metatft_composition_chunk_7",
+    "source": "08_metatft_composition",
+    "text": "bonuses, while also having 2-star or 3-star champions to make your board stronger.If you want to try some team compositions that make great use of putting these traits together, you can find them here. Gold To buy units in this game, you use gold. You get 5 gold every round plus an additional gold for every 10 gold you save up with a maximum of an additional 5 gold for saving 50 gold. You can"
+  },
+  {
+    "id": "08_metatft_composition_chunk_8",
+    "source": "08_metatft_composition",
+    "text": "old for every 10 gold you save up with a maximum of an additional 5 gold for saving 50 gold. You can spend gold on leveling up or rolling the shop to try and find units for your board. If you are about to die, you should try to spend all of your gold to try and win. If you want to learn more about gold and economy and how to utilize it properly to roll check out this guide here. Levels Your level"
+  },
+  {
+    "id": "08_metatft_composition_chunk_9",
+    "source": "08_metatft_composition",
+    "text": "gold and economy and how to utilize it properly to roll check out this guide here. Levels Your level in this game determines how many units on your board you can play, so if you are level 8, you can play at least 8 units. You can play more units if you have the augment New Recruit or if you have an item that gives you +1 to team size. Additionally, you will get 2 exp every round to help you level"
+  },
+  {
+    "id": "08_metatft_composition_chunk_10",
+    "source": "08_metatft_composition",
+    "text": "item that gives you +1 to team size. Additionally, you will get 2 exp every round to help you level up. The comps page on the site also shows which stage player’s most common level, which is shown in the image below. Right above the levels also shows common positioning for units so you do not have to worry about it. As you level-up you will get access to stronger units. For more information on"
+  },
+  {
+    "id": "08_metatft_composition_chunk_11",
+    "source": "08_metatft_composition",
+    "text": "ve to worry about it. As you level-up you will get access to stronger units. For more information on the shop odds as you level-up, click here. Portals and Carousels At the beginning of the game, you will be shown 3 portals to vote on. These portals can range from changing the game up a little bit to shaping the entire game because of the portal. In the middle of each stage you will see a"
+  },
+  {
+    "id": "08_metatft_composition_chunk_12",
+    "source": "08_metatft_composition",
+    "text": "tle bit to shaping the entire game because of the portal. In the middle of each stage you will see a carousel of units and items going around in a circle. During this, the losing players will get to pick their unit/item first and the winning players will pick last. It is suggested that most of the time you should pick a good component that can help you later in the game rather than picking the"
+  },
+  {
+    "id": "08_metatft_composition_chunk_13",
+    "source": "08_metatft_composition",
+    "text": "he time you should pick a good component that can help you later in the game rather than picking the preferred unit of the carousel. Augments 3 times a game you will be offered a choice of 3 augments. Augments are one of the most fun parts about TFT and one of the reasons this game is super replayable. Augments can give you gold, items, combat power, or completely change your game around. If you"
+  },
+  {
+    "id": "08_metatft_composition_chunk_14",
+    "source": "08_metatft_composition",
+    "text": "able. Augments can give you gold, items, combat power, or completely change your game around. If you get some augments you don’t like, you can reroll them to try and find one you do like. We won’t go too in depth about what augments to pick in this guide, but if you want to know what is generally strong, you can check out augment stats here. The MetaTFT app also shows you the stats in game. You"
+  },
+  {
+    "id": "08_metatft_composition_chunk_15",
+    "source": "08_metatft_composition",
+    "text": "strong, you can check out augment stats here. The MetaTFT app also shows you the stats in game. You can even select a specific comp on the bottom left for more filtered stats. Charms Charms are the set mechanic for set 12 and can be a powerful tool in your shop for economy, combat, and more. You get 1 charm every three shops until stage 5+, where you start seeing them every two shops. Whenever"
+  },
+  {
+    "id": "08_metatft_composition_chunk_16",
+    "source": "08_metatft_composition",
+    "text": "get 1 charm every three shops until stage 5+, where you start seeing them every two shops. Whenever you see a charm in your shop, you should consider if it is worth buying. I will not go in depth in this guide about charms, but for some stats and information about charms, click here. Basic strategy In your first game, you should pick a composition that you like or saw somebody play and just try"
+  },
+  {
+    "id": "08_metatft_composition_chunk_17",
+    "source": "08_metatft_composition",
+    "text": "gy In your first game, you should pick a composition that you like or saw somebody play and just try to play that one composition. Make sure you make the economy thresholds of 10 gold up to 50 and make as many items early as possible. If you are new, it is very good to watch streams and guides. A very good beginner friendly content creator is Frodan. After you are comfortable with that one comp"
+  },
+  {
+    "id": "08_metatft_composition_chunk_18",
+    "source": "08_metatft_composition",
+    "text": "very good beginner friendly content creator is Frodan. After you are comfortable with that one comp and know the good positions to play it in you should try and force a different comp until you are comfortable with that one. Then when you feel really comfortable, you can start playing flexibly around the units and items you are offered and build really cool strong/unique boards. Common Beginner"
+  },
+  {
+    "id": "08_metatft_composition_chunk_19",
+    "source": "08_metatft_composition",
+    "text": "ound the units and items you are offered and build really cool strong/unique boards. Common Beginner Mistakes As a beginner, you are going to make a lot of mistakes, which is okay, as even the best players do not play perfect games. Here are some common mistakes beginners make that you can avoid. The first beginner's mistake is not managing the economy properly, and rolling too much. Remember"
+  },
+  {
+    "id": "08_metatft_composition_chunk_20",
+    "source": "08_metatft_composition",
+    "text": "d. The first beginner's mistake is not managing the economy properly, and rolling too much. Remember that every 10 gold you save earns you an extra gold the next round. To know when to roll, save, and level-up, consider clicking here and reading this economy guide next. The next beginner mistake is saving items too much for the best possible combinations. Oftentimes, you see what items to build"
+  },
+  {
+    "id": "08_metatft_composition_chunk_21",
+    "source": "08_metatft_composition",
+    "text": "is saving items too much for the best possible combinations. Oftentimes, you see what items to build in guides, but a good rule to follow is if you have four or more items, you should consider combining, even if they are not the best items. This is because a subpar item can save you health, so try making items as often as possible, as long as they are somewhat useful. Also, you get a magnetic"
+  },
+  {
+    "id": "08_metatft_composition_chunk_22",
+    "source": "08_metatft_composition",
+    "text": "try making items as often as possible, as long as they are somewhat useful. Also, you get a magnetic remover every minion round, so don’t be afraid to put it on a unit you need later. Another common mistake beginner’s make is not having a plan when they roll. Whenever you roll, try to put the units you are rolling for in the team planner. This one is quite simple, just make sure you roll with a"
+  },
+  {
+    "id": "08_metatft_composition_chunk_23",
+    "source": "08_metatft_composition",
+    "text": "ts you are rolling for in the team planner. This one is quite simple, just make sure you roll with a purpose in mind and you are trying to make your board stronger. Go Play Games Teamfight Tactics is a great strategy game with a lot of depth and almost infinite replayability, especially when the balance team does a good job. Finally, if you are having a rough time in your games and not winning,"
+  },
+  {
+    "id": "08_metatft_composition_chunk_24",
+    "source": "08_metatft_composition",
+    "text": "balance team does a good job. Finally, if you are having a rough time in your games and not winning, then don’t feel discouraged. Try and find a friend to help you out or watch some guides from the best players. Hopefully this guide helped you learn the basics of TFT. Thank you for reading and I hope you have a great time on your TFT journey! Good luck in your games!"
+  },
+  {
+    "id": "09_tftacademy_tierlist_chunk_0",
+    "source": "09_tftacademy_tierlist",
+    "text": "Log in Patch 17.4b Last Updated 5 hours ago Comps Tierlist S Tier S tier A Tier A tier B Tier B tier C Tier C tier X Tier X tier (Situational) SITUATIONAL Privacy Policy Terms of Use About Â© 2023 - 2026 TFT ACADEMY. TFT ACADEMY isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot"
+  },
+  {
+    "id": "09_tftacademy_tierlist_chunk_1",
+    "source": "09_tftacademy_tierlist",
+    "text": "ons of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc."
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_0",
+    "source": "10_bunnymuffins_leveling",
+    "text": "TFT Leveling Guide Set 17 – When to Level & Roll For the best TFT Comps, check out the TFT Tier List Table of Contents Leveling Guide Leveling and Tempo are fundamental concepts to understand in TFT because they dictate the pace of your game. Leveling too early can cause you to have too little gold to roll with while leveling too late will cost you HP. There are a few decision points when"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_1",
+    "source": "10_bunnymuffins_leveling",
+    "text": "tle gold to roll with while leveling too late will cost you HP. There are a few decision points when choosing to level. How much money will we have left over? Do we have to level and roll on the same turn? What shop odds are we trying to optimize? Can we preserve a win streak if we level? General Tips: Save gold if you need to Roll at a specific level and you have NOT reached that level yet You"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_2",
+    "source": "10_bunnymuffins_leveling",
+    "text": "Tips: Save gold if you need to Roll at a specific level and you have NOT reached that level yet You are healthy (high health compared to everyone else) You have a strong board (you have key units, big synergies, unit upgrades compared to others) Roll if you need to Preserve your Health Complete a lot of pairs (your bench is full of 2 copies of units and you need 1 more to upgrade a few of them)"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_3",
+    "source": "10_bunnymuffins_leveling",
+    "text": "lot of pairs (your bench is full of 2 copies of units and you need 1 more to upgrade a few of them) Need units at a specific cost and you are at the optimal level to roll for them Level up if you need to Add an extra unit to activate a key trait (you may need to level up no matter what the cost) Roll to obtain units at a specific cost (you will need to have enough gold to roll after spending"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_4",
+    "source": "10_bunnymuffins_leveling",
+    "text": "t) Roll to obtain units at a specific cost (you will need to have enough gold to roll after spending gold on leveling up) Have too much extra gold and you might as well buy XP Standard Leveling (for Fast 8 or 9) Win Streak (8+ Streak) Round 2-1 2-5 3-1 3-5 (30g+) 4-2 5-2 Level 4 5 6 7 8 9 If we are winning, we want to push levels and access higher-tier units and continue our win streak. If we"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_5",
+    "source": "10_bunnymuffins_leveling",
+    "text": "are winning, we want to push levels and access higher-tier units and continue our win streak. If we have a lot of pairs on 3-1, we are allowed to roll a few times to complete pairs. Same applies on 3-5. On 4-2 we are likely going to roll a little to stabilize and save some HP on the way to level 9. We aren’t allowed to take 20 damage a fight stage 4, so you for sure roll a bit on level 8."
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_6",
+    "source": "10_bunnymuffins_leveling",
+    "text": "level 9. We aren’t allowed to take 20 damage a fight stage 4, so you for sure roll a bit on level 8. Ideally, we hit a few 4 cost 1 stars, maybe a 5 cost or 2, and go 9 on 5-2. Sometimes we have to roll deeper and delay our 9 till 5-5. We want to leverage our HP from this spot and try to hit level 9 before other players. If you are streaking with an econ augment, you can even consider 4-5 level"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_7",
+    "source": "10_bunnymuffins_leveling",
+    "text": "l 9 before other players. If you are streaking with an econ augment, you can even consider 4-5 level 9. Obviously win streaking is the best outcome because it gives you high health and so much gold, but we can’t always have this happen, which means the games you do, you need to make the most of them. Lose Streak (6+ Streak) Round 2-3 (10g+) 2-7 3-2 3-5 (40g+) 4-1 5-2 Level 4 5 6 7 8 9 When we are"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_8",
+    "source": "10_bunnymuffins_leveling",
+    "text": "m. Lose Streak (6+ Streak) Round 2-3 (10g+) 2-7 3-2 3-5 (40g+) 4-1 5-2 Level 4 5 6 7 8 9 When we are lose streaking, we have to win out most of Stage 4, this means rolling a turn before tempo (4-1 on level 8) and doing our best to not lose a single fight this stage. Usually, off a loss streak, you are low health, playing at around a ~50-60 health deficit, so that means we will lose a life every"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_9",
+    "source": "10_bunnymuffins_leveling",
+    "text": "u are low health, playing at around a ~50-60 health deficit, so that means we will lose a life every time we lose a fight in stage 4. If you have a broken econ augment, you should structure your curve around leveling to 9 on 4-5, as in set 15, the 5 costs are insanely strong and what will lead you to a first place comp. Normal/Mixed Streak Round 2-1 or 2-3 2-5 or 3-1 3-2 3-5 or 4-1 4-2 or 4-5 5-2"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_10",
+    "source": "10_bunnymuffins_leveling",
+    "text": "to a first place comp. Normal/Mixed Streak Round 2-1 or 2-3 2-5 or 3-1 3-2 3-5 or 4-1 4-2 or 4-5 5-2 or 5-5 Level 4 5 6 7 8 9 Mixed streak is the hardest of all to play, as there will be a lot of nuance in minmaxing small amounts of gold from 2 streaks. The worst thing that can happen is LWLWL, but sometimes that is unavoidable. The hardest decision points will be leveling to 4 or 5 on stage 2."
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_11",
+    "source": "10_bunnymuffins_leveling",
+    "text": "ut sometimes that is unavoidable. The hardest decision points will be leveling to 4 or 5 on stage 2. You need to be very efficient with your money, as you do not have the extra income from streaking. If you are mixed streak, most of the time playing a vertical trait is the most efficient thing you can do as the boards tend to be cheap, and this way you can eventually make it to level 9. Vertical"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_12",
+    "source": "10_bunnymuffins_leveling",
+    "text": "can do as the boards tend to be cheap, and this way you can eventually make it to level 9. Vertical boards also tend to do well in Stage 4, and that allows you to play for HP and top 4 by HP lead. If you highroll 1 star 5 cost, they can also be great. HP preservation is extremely important when playing mixed streak, as it is the only resource you have over the loss streak players. They are"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_13",
+    "source": "10_bunnymuffins_leveling",
+    "text": "hen playing mixed streak, as it is the only resource you have over the loss streak players. They are likely to outcap you, but you should have more lives than they do, and that can lead to them dying to other high-cap players while you coast to a 4th. You somewhat live or die by your 4-2 rolldown and hitting reasonable upgrades to save lives on Stage 4. 1 Cost Reroll Do not press the level button"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_14",
+    "source": "10_bunnymuffins_leveling",
+    "text": "nd hitting reasonable upgrades to save lives on Stage 4. 1 Cost Reroll Do not press the level button at all until you 3 star your 1 cost. Level 4 odds on 3-1 are very important as you are rolling at least a bit to stabilize and find extra copies. Depending on your econ, I like rolling to at least 32 gold because 32g > 40g > 50g, and you can choose to slowroll from there or dig deeper depending on"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_15",
+    "source": "10_bunnymuffins_leveling",
+    "text": "2 gold because 32g > 40g > 50g, and you can choose to slowroll from there or dig deeper depending on your spot. I personally like to aggressively roll on 3-5 because winning 3-5 and 3-6 is likely to give you an extra life, and 1 cost reroll does not cap as high as 4 cost and 5 cost boards. Most of the time, this spike in tempo ends up giving you +1 placement. 1 cost reroll is inherently more"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_16",
+    "source": "10_bunnymuffins_leveling",
+    "text": "t of the time, this spike in tempo ends up giving you +1 placement. 1 cost reroll is inherently more aggressive than a reroll of 2 or 3 cost, as it is cheaper to hold units, and you do not have to invest in leveling until you hit your desired units. 2 Cost Reroll Lose Streak Round 2-3 2-7 3-2 4+ 5+ 6+ Level 4 5 6 7 8 9 Other Round 2-1 2-5 3-2 4+ 5+ 6+ Level 4 5 6 7 8 9 Level to 4 on 2-1 if you"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_17",
+    "source": "10_bunnymuffins_leveling",
+    "text": "5+ 6+ Level 4 5 6 7 8 9 Other Round 2-1 2-5 3-2 4+ 5+ 6+ Level 4 5 6 7 8 9 Level to 4 on 2-1 if you are strong/have a copy of the unit you are rerolling + a slammable item Level to 5 on 2-5 if you are strong, if not make econ (20) Level to 6 on 3-2 and roll to stabilize. You just slowroll from here. Level 7 by 4-5 if possible Level 8 5-2 if possible 3 Cost Reroll Lose Streak Round 2-3 2-7 3-2"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_18",
+    "source": "10_bunnymuffins_leveling",
+    "text": "here. Level 7 by 4-5 if possible Level 8 5-2 if possible 3 Cost Reroll Lose Streak Round 2-3 2-7 3-2 3-5 (40g+) 5+ 6+ Level 4 5 6 7 8 9 Other Round 2-1 2-5 3-2 3-5 or 4-1 5+ 6+ Level 4 5 6 7 8 9 Level to 4 on 2-1 if you are strong/have a copy of the unit you are rerolling + a slammable item Level to 5 on 2-5 if you are strong, if not make econ (20) Level to 6 on 3-2 Level to 7 3-5 If you have an"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_19",
+    "source": "10_bunnymuffins_leveling",
+    "text": "to 5 on 2-5 if you are strong, if not make econ (20) Level to 6 on 3-2 Level to 7 3-5 If you have an econ Augment Level to 7 4-1 and hit your carry 2-star to stabilize. Strength of the Lobby Knowing what people are playing is incredibly important, as it allows us to understand when they spike. 1 cost rerolls tend to spike at 3-1, 3-5, and 4-1. 2 cost rerolls tend to spike at 3-2, 4-1, and 4-5. 3"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_20",
+    "source": "10_bunnymuffins_leveling",
+    "text": "ost rerolls tend to spike at 3-1, 3-5, and 4-1. 2 cost rerolls tend to spike at 3-2, 4-1, and 4-5. 3 cost rerolls tend to spike 3-2, 3-5, 4-1, and 5-1. Fast 8 players all spike at 4-2. Fast 9 Players spike with fast 8ers on 4-2 and spike again on 5-2 when they hit 9. This is incredibly valuable information because if the reroll players are in our pool, we would not want to expend resources to"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_21",
+    "source": "10_bunnymuffins_leveling",
+    "text": "information because if the reroll players are in our pool, we would not want to expend resources to preserve a streak, as they will likely be stronger than us. Say we are on an 8 streak on 3-5 with 50 gold. It costs 28 gold to go level 7 at the moment. Our pool is a 1 cost reroller a 2 cost reroller, and a crystal gambit player. If we take the information above into account, we should not level"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_22",
+    "source": "10_bunnymuffins_leveling",
+    "text": "ler, and a crystal gambit player. If we take the information above into account, we should not level to 7 and instead make max interest as we are likely to lose to the 1 and 2 cost players and beat the crystal gambit player regardless of what we do. A lot of people tend to force a level to be the strongest they can be to preserve win streaks, but it’s not correct if you can reasonably deduce you"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_23",
+    "source": "10_bunnymuffins_leveling",
+    "text": "strongest they can be to preserve win streaks, but it’s not correct if you can reasonably deduce you will lose. In this scenario, you will lose 66% of the time unless you invest gold into rolling as well. Knowing who is in your pool and when they are likely to spike is incredibly important to making the most out of our streaks. Champion Roll Odds and Pool Size Level 1 Cost (30 units) 2 Cost (25"
+  },
+  {
+    "id": "10_bunnymuffins_leveling_chunk_24",
+    "source": "10_bunnymuffins_leveling",
+    "text": "ing the most out of our streaks. Champion Roll Odds and Pool Size Level 1 Cost (30 units) 2 Cost (25 units) 3 Cost (18 units) 4 Cost (10 units) 5 Cost (9 units) 1 100% 0% 0% 0% 0% 2 100% 0% 0% 0% 0% 3 75% 25% 0% 0% 0% 4 55% 30% 15% 0% 0% 5 45% 33% 20% 2% 0% 6 30% 40% 25% 5% 0% 7 19% 30% 40% 10% 1% 8 17% 24% 32% 24% 3% 9 15% 18% 25% 30% 12% 10 5% 10% 20% 40% 25%"
+  }
+]
