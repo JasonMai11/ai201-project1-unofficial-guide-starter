@@ -34,7 +34,9 @@ how to scale to the end game and secure a place within the top 4 or even better,
 | 8 | MetaTFT Comps | Meta/stat page for team comps, leveling guides, items, augments, and end-game options. | https://www.metatft.com/comps |
 | 9 | TFTAcademy Comps Tier List | Curated comp tier list and guide hub from high-level TFT creators. | https://tftacademy.com/tierlist/comps |
 | 10 | BunnyMuffins TFT Leveling Guide | Useful outside perspective on when to level and roll, especially for ranked tempo decisions. | https://bunnymuffins.lol/tft-leveling-guide/ |
-
+| 11 | Reddit Competitive TFT Guide | A guide on how to climb the Competitive TFT Ranks | https://www.reddit.com/r/CompetitiveTFT/comments/1md33p9/guide_12_rules_to_improve_at_tft_up_to_master/ |
+| 12 | Mobalytics Fast 9 Guide | How to play a leveling (Fast 9) Comp | https://mobalytics.gg/tft/guides/how-to-play-fast-9-comp |
+| 13 | Meta TFT Shop Odds | Useful table to determine shop odds when leveling | https://www.metatft.com/tables/shop-odds|
 ---
 
 ## Chunking Strategy

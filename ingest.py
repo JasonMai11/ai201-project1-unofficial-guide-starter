@@ -22,6 +22,9 @@ SOURCES = [
     {"name": "08_metatft_composition", "url": "https://www.metatft.com/comps"},
     {"name": "09_tftacademy_tierlist", "url": "https://tftacademy.com/tierlist/comps"},
     {"name": "10_bunnymuffins_leveling", "url": "https://bunnymuffins.lol/tft-leveling-guide/"},
+    {"name": "11_reddit_competitive",   "url": "https://www.reddit.com/r/CompetitiveTFT/"},
+    {"name": "12_mobalytics_fastnine",  "url": "https://mobalytics.gg/tft/guides/"},
+    {"name": "13_metatft_unitodds",     "url": "https://www.metatft.com/"},
 ]
 
 HEADERS = {
