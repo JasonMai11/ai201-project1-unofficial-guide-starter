@@ -4,7 +4,7 @@
 ## Domain
 
 My domain is how to play / climb the ranks of Team Fight Tactics (TFT). 
-TFT doesn't really place you in a tutorial, instead they have a dedication YouTube video on how to play.
+TFT doesn't really place you in a tutorial, instead they have a dedicated YouTube video on how to play.
 This knowledge is hard to find since TFT could only introduce the basics on how TFT functions but not
 how to scale to the end game and secure a place within the top 4 or even better, win 1st place.
 
