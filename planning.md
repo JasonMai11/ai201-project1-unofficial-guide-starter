@@ -102,7 +102,9 @@ The trade offs would definitely be costs since we would probably need a large co
 1. I feel like the information from other guides could contradict each other since people are entitled to their own opinion on how to
 progress in the game
 
-2. Some chunks can return false information since some questions can be very vague.
+2. Some chunks can return false information since some questions can be very vague. Or some questions might not be answered due to missing information from the documents.
+
+3. TFT is a very complex game so answers may seem a little wonky too.
 
 ---
 
@@ -136,7 +138,12 @@ progress in the game
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+Ingestion and Chunking has been implemented with Claude.
+I tested various chunking strategies (although it was hard to be satisfied since chunks of many sizes seemed ok to me)
 
 **Milestone 4 — Embedding and retrieval:**
+Embedding and Retrieval was implemented.
+The chunks embedded using the recommended techstack (Sentence-transformers all-miniLM-L6-V2)
+Retrieval was implemented and tested using 'python retrieval.py' to run it against my example queries.
 
 **Milestone 5 — Generation and interface:**
