@@ -1,4 +1,4 @@
-# The Unofficial Guide — Project 1
+# The Unofficial TFT Guide — Project 1
 ---
 
 ## Domain
