@@ -1,18 +1,12 @@
 # The Unofficial Guide — Project 1
-
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
 ---
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+My domain is how to play / climb the ranks of Team Fight Tactics (TFT). 
+TFT doesn't really place you in a tutorial, instead they have a dedication YouTube video on how to play.
+This knowledge is hard to find since TFT could only introduce the basics on how TFT functions but not
+how to scale to the end game and secure a place within the top 4 or even better, win 1st place.
 
 ---
 
@@ -24,16 +18,17 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Mobalytics TFT Beginner Guide | Good broad beginner guide for learning your first TFT match and major game concepts. | https://mobalytics.gg/blog/tft/tft-guide/ |
+| 2 | Mobalytics Economy Guide | Covers economy styles like aggressive economy, streaking, and when to spend gold. | https://mobalytics.gg/tft/guides/how-to-manage-your-economy-in-teamfight-tactics-three-strategies |
+| 3 | Mobalytics Standard Leveling Strategy | Good for explaining when beginners should level, roll, or save gold. | https://mobalytics.gg/tft/guides/standard-leveling-strategy |
+| 4 | Mobalytics TFT Positioning Guide | Covers unit placement, frontline/backline logic, and positioning fundamentals. | https://mobalytics.gg/blog/tft/tft-positioning-guide-how-to-get-the-most-from-your-units/ |
+| 5 | Reddit: TFT Fundamentals — Econ and Leveling Guide | Community-written guide focused on economy and leveling from a player perspective. | https://www.reddit.com/r/TeamfightTactics/comments/1gmpr4y/tft_fundamentals_econ_and_leveling_guide_road_to/ |
+| 6 | Reddit: Item Economy Fundamentals | Strong source for item decision-making, flexible item use, and avoiding wasted components. | https://www.reddit.com/r/CompetitiveTFT/comments/1hwxtsq/item_economy_fundamentals/ |
+| 7 | Reddit: Beginner — How to Learn Positioning? | Good discussion thread for practical beginner questions about positioning. | https://www.reddit.com/r/CompetitiveTFT/comments/14qa1r8/beginner_how_to_learn_positioning/ |
+| 8 | MetaTFT Comps | Meta/stat page for team comps, leveling guides, items, augments, and end-game options. | https://www.metatft.com/comps |
+| 9 | TFTAcademy Comps Tier List | Curated comp tier list and guide hub from high-level TFT creators. | https://tftacademy.com/tierlist/comps |
+| 10 | BunnyMuffins TFT Leveling Guide | Useful outside perspective on when to level and roll, especially for ranked tempo decisions. | https://bunnymuffins.lol/tft-leveling-guide/ |
+
 
 ---
 
