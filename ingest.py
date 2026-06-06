@@ -24,7 +24,7 @@ SOURCES = [
     {"name": "10_bunnymuffins_leveling", "url": "https://bunnymuffins.lol/tft-leveling-guide/"},
     {"name": "11_reddit_competitive",   "url": "https://www.reddit.com/r/CompetitiveTFT/"},
     {"name": "12_mobalytics_fastnine",  "url": "https://mobalytics.gg/tft/guides/"},
-    {"name": "13_metatft_unitodds",     "url": "https://www.metatft.com/"},
+    {"name": "13_metatft_unitodds",     "url": "https://www.metatft.com/tables/shop-odds"},
 ]
 
 HEADERS = {

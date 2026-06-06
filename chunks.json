@@ -2277,21 +2277,21 @@
   {
     "id": "13_metatft_unitodds_chunk_0",
     "source": "13_metatft_unitodds",
-    "text": "TFT Shop Odds, Level Chances & Pool Sizes - Set 17 Last Updated: 4 minutes ago The chance of getting a certain cost of champion in your shop at a each level Shop Odds at each level The odds of getting a certain cost of unit in your shop at each level, and the size of the unit pool for each cost. Level 11 Cost Unit 22 Cost Unit 33 Cost Unit 44 Cost Unit 55 Cost Unit Lvl 2 100% 0% 0% 0% 0% Lvl 3"
+    "text": "TFT Shop Odds by Level (Set 17): At level 2, shop odds are 1-cost 100%, 2-cost 0%, 3-cost 0%, 4-cost 0%, 5-cost 0%. At level 3: 1-cost 75%, 2-cost 25%, 3-cost 0%, 4-cost 0%, 5-cost 0%. At level 4: 1-cost 55%, 2-cost 30%, 3-cost 15%, 4-cost 0%, 5-cost 0%. At level 5: 1-cost 45%, 2-cost 33%, 3-cost 20%, 4-cost 2%, 5-cost 0%. At level 6: 1-cost 30%, 2-cost 40%, 3-cost 25%, 4-cost 5%, 5-cost 0%. At"
   },
   {
     "id": "13_metatft_unitodds_chunk_1",
     "source": "13_metatft_unitodds",
-    "text": "Level 11 Cost Unit 22 Cost Unit 33 Cost Unit 44 Cost Unit 55 Cost Unit Lvl 2 100% 0% 0% 0% 0% Lvl 3 75% 25% 0% 0% 0% Lvl 4 55% 30% 15% 0% 0% Lvl 5 45% 33% 20% 2% 0% Lvl 6 30% 40% 25% 5% 0% Lvl 7 19% 30% 40% 10% 1% Lvl 8 15% 20% 32% 30% 3% Lvl 9 10% 17% 25% 33% 15% Lvl 10 5% 10% 20% 40% 25% Lvl 11 1% 2% 12% 50% 35% Pool Sizes The Pool Size (or Bag Size) is the number of each champion available in"
+    "text": "20%, 4-cost 2%, 5-cost 0%. At level 6: 1-cost 30%, 2-cost 40%, 3-cost 25%, 4-cost 5%, 5-cost 0%. At level 7: 1-cost 19%, 2-cost 30%, 3-cost 40%, 4-cost 10%, 5-cost 1%. At level 8: 1-cost 15%, 2-cost 20%, 3-cost 32%, 4-cost 30%, 5-cost 3%. At level 9: 1-cost 10%, 2-cost 17%, 3-cost 25%, 4-cost 33%, 5-cost 15%. At level 10: 1-cost 5%, 2-cost 10%, 3-cost 20%, 4-cost 40%, 5-cost 25%. At level 11:"
   },
   {
     "id": "13_metatft_unitodds_chunk_2",
     "source": "13_metatft_unitodds",
-    "text": "1% 2% 12% 50% 35% Pool Sizes The Pool Size (or Bag Size) is the number of each champion available in the shop. For each champion bought in the pool, the probability of hitting that champion decreases until it is empty. 1 Cost 29 2 Cost 22 3 Cost 18 4 Cost 10 5 Cost 9 This impacts the number of Three Star Champions that can be in the game at any one time. 1 Three Star requires a pool size of 9, 2"
+    "text": "3%, 5-cost 15%. At level 10: 1-cost 5%, 2-cost 10%, 3-cost 20%, 4-cost 40%, 5-cost 25%. At level 11: 1-cost 1%, 2-cost 2%, 3-cost 12%, 4-cost 50%, 5-cost 35%. Pool Sizes (Set 17): Each 1-cost champion has 29 copies in the pool, 2-cost have 22 copies, 3-cost have 18 copies, 4-cost have 10 copies, and 5-cost have 9 copies. The pool is shared across all players — every copy bought reduces the"
   },
   {
     "id": "13_metatft_unitodds_chunk_3",
     "source": "13_metatft_unitodds",
-    "text": "ee Star Champions that can be in the game at any one time. 1 Three Star requires a pool size of 9, 2 Three Star requires a pool size of 18, and 3 Three Star requires a pool size of 27. Tip: A Champion Duplicator can create a champion, even if the pool is empty."
+    "text": "ies, and 5-cost have 9 copies. The pool is shared across all players — every copy bought reduces the remaining supply. A 3-star unit requires 9 copies of the same champion. A Champion Duplicator can create a copy even if the pool is empty."
   }
 ]

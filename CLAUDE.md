@@ -36,7 +36,7 @@ Five sequential stages:
 
 ## Source Documents
 
-10 TFT guides (URLs in `planning.md`) covering: beginner fundamentals, economy management, leveling strategy, unit positioning, item usage, and meta comps. Place scraped/downloaded content in `documents/`.
+13 TFT guides (URLs in `planning.md`) covering: beginner fundamentals, economy management, leveling strategy, unit positioning, item usage, and meta comps. Place scraped/downloaded content in `documents/`.
 
 ## Evaluation
 

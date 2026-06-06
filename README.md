@@ -28,6 +28,9 @@ how to scale to the end game and secure a place within the top 4 or even better,
 | 8 | MetaTFT Comps | Meta/stat page for team comps, leveling guides, items, augments, and end-game options. | https://www.metatft.com/comps |
 | 9 | TFTAcademy Comps Tier List | Curated comp tier list and guide hub from high-level TFT creators. | https://tftacademy.com/tierlist/comps |
 | 10 | BunnyMuffins TFT Leveling Guide | Useful outside perspective on when to level and roll, especially for ranked tempo decisions. | https://bunnymuffins.lol/tft-leveling-guide/ |
+| 11 | Reddit Competitive TFT Guide | A guide on how to climb the Competitive TFT Ranks | https://www.reddit.com/r/CompetitiveTFT/comments/1md33p9/guide_12_rules_to_improve_at_tft_up_to_master/ |
+| 12 | Mobalytics Fast 9 Guide | How to play a leveling (Fast 9) Comp | https://mobalytics.gg/tft/guides/how-to-play-fast-9-comp |
+| 13 | Meta TFT Shop Odds | Useful table to determine shop odds when leveling | https://www.metatft.com/tables/shop-odds|
 
 
 ---
@@ -42,12 +45,19 @@ how to scale to the end game and secure a place within the top 4 or even better,
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
+Chunking by Char
+Chunk Size : 400
 
 **Overlap:**
+Overlap : 100
 
 **Why these choices fit your documents:**
+The chunk size and overlap fits my documents since most information needed was compact and concise.
+Most documents were getting points and key details across 1-3 sentences where some spanning a couple paragraphs to go further in depth but most of the time it was a couple sentences.
 
 **Final chunk count:**
+10 Documents resulted in 364 Chunks
+When I added 3 additional documents to improve accuracy, the chunks increased to 459.
 
 ---
 
@@ -60,6 +70,8 @@ how to scale to the end game and secure a place within the top 4 or even better,
      latency, and local vs. API-hosted. -->
 
 **Model used:**
+The embedding model used: all-MiniLM-L6-V2
+I chose this model since it was recommended.
 
 **Production tradeoff reflection:**
 
@@ -75,6 +87,16 @@ how to scale to the end game and secure a place within the top 4 or even better,
      the mechanism. -->
 
 **System prompt grounding instruction:**
+You are a Teamfight Tactics (TFT) guide assistant.
+Answer the user's question using ONLY the information in the provided documents.
+Do not use any knowledge from your training data.
+If the documents do not contain enough information to answer, respond with exactly:
+"I don't have enough information on that topic based on my sources."
+Do not speculate or add information beyond what the documents state.
+
+This prompt grounds the LLM to only use the chunks provided in the documents. 
+The tricky part is that it doesn't speculate which means you cannot ask the LLM for recommendations based of the documents.
+The LLM will only give hard facts provided from the chunks.
 
 **How source attribution is surfaced in the response:**
 
