@@ -59,6 +59,33 @@ Most documents were getting points and key details across 1-3 sentences where so
 10 Documents resulted in 364 Chunks
 When I added 3 additional documents to improve accuracy, the chunks increased to 459.
 
+**5 Sample Chunks from Document 1:**
+{
+    "id": "01_mobalytics_beginner_chunk_67",
+    "source": "01_mobalytics_beginner",
+    "text": "will help you with the decision making process related to spending to find upgrades or saving up. In general, if you’re looking to maintain a win streak, it may be more worth it to look for upgrades to continue to snowball. Keep in mind, however, how realistic your odds are. If you aren’t winning early on, it’s probably more beneficial to save up, as long as you aren’t getting completely"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_68",
+    "source": "01_mobalytics_beginner",
+    "text": "winning early on, it’s probably more beneficial to save up, as long as you aren’t getting completely destroyed and losing tons of HP. If you’re able to get a lose streak while staying healthy, you’ll be in a position to not only max interest but also be in a good spot at carousel rounds. Which champions are strong when? This is leaning towards a more advanced concept called “power spikes”, which"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_69",
+    "source": "01_mobalytics_beginner",
+    "text": "mpions are strong when? This is leaning towards a more advanced concept called “power spikes”, which if you’re a League player, you may be familiar with. In a nutshell, it means that most pieces have a point in time where they are designed to be strongest, and times where they’re expected to not be good or fall off. In general, attack speed is better early game, and raw burst is better later"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_70",
+    "source": "01_mobalytics_beginner",
+    "text": "ot be good or fall off. In general, attack speed is better early game, and raw burst is better later game. Single target abilities are better early game, AoE abilities are better late game. Should I give my tanks items or my back line? It’s good to have a mix of both tank items and damage items. Most team comps will have a strongest damage carry and tank unit. By having 3 items on each, you’re"
+  },
+  {
+    "id": "01_mobalytics_beginner_chunk_71",
+    "source": "01_mobalytics_beginner",
+    "text": "Most team comps will have a strongest damage carry and tank unit. By having 3 items on each, you’re maximizing your item potential. As you get more champions and items, you can continue spreading them based on what you need. Where do I position my units? Why do some people have all their units on the left side, others on the right, and others in the middle? Positioning your own units depends on"
+  }
+
 ---
 
 ## Embedding Model
